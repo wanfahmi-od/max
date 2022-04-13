@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif02p04</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif02p04.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif02p04.mp3</audio_location>
+      <audio_text>The RAM DOOR FULL OPEN lights on the NG Air Conditioning panel, have been removed from the MAX, as there is no procedural use of the lights. On the MAX panel you’ll also find a light nomenclature change, the BLEED TRIP OFF lights are now labeled BLEED. A new BLEED non-normal checklist replaces the BLEED TRIP OFF non-normal checklist on the NG.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

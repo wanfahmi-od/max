@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif06p01</id>
+  <graphics_location>dif06p01.html</graphics_location>
+  <data></data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif06p01.mp3</audio_location>
+      <audio_text>The 737-MAX Display System has four large format display units, two inboard and two outboard. Select each icon to learn more.</audio_text>
+      <instruction></instruction>
+      <completion>both</completion>
+      <advance>wait</advance>
+    </section>
+  </sections>
+</page>

@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05fbp03</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05fbp03.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05fbp03.mp3</audio_location>
+      <audio_text>The 737 MAX is designed to fly like the 737NG. During normal operations, both airplanes respond to control wheel and column inputs. A new fly-by-wire spoiler system is in place on the MAX to reduce weight and add enhanced functionalities. These new functionalities include: Maneuver Load Alleviation (MLA), Landing Attitude Modifier (LAM), Emergency Descent Speedbrakes, (EDS), Elevator Jam Landing Assist System and Speedbrake logic changes.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif05fbp03a.mp3</audio_location>
+      <audio_text>The Elevator Jam Landing Assist System, Speedbrake logic changes, and minor nomenclature changes for the stabilizer trim cutout switches, are discussed in separate sections of this Flight Control module.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s3</id>
+      <audio_location>dif05fbp03b.mp3</audio_location>
+      <audio_text>To increase the aircrafts descent rate during a high altitude loss of pressurization event, the 737 MAX has an emergency descent speedbrakes (EDS) system. The system is armed when the airplane is above 30,000 feet and the cabin altitude warning is active. The EDS system increases the descent rate by raising the speedbrakes to a higher than normal position when the crew moves the speedbrakes lever to the flight detent as part of the emergency descent procedure.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s4</id>
+      <audio_location>dif05fbp03c.mp3</audio_location>
+      <audio_text>EDS operation is transparent to the flight crew. EDS is deactivated when the flight crew stows the speedbrake lever or when the cabin altitude warning is no longer active.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

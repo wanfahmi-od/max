@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif08p03</id>
+  <graphics_location>dif08p03.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif08p03.mp3</audio_location>
+      <audio_text>You will notice the LANDING GEAR lever is centrally located between the inboard DU’s. To the right of the LANDING GEAR lever is the LOCK OVRD switch, which releases the landing gear lever lock. Also note that the NOSE WHEEL STEER switch has been relocated next to the LANDING GEAR lever.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

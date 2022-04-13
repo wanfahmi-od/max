@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05sbp04</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05sbp04.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05sbp04.mp3</audio_location>
+      <audio_text>As on the NG, the SPEED BRAKE EXTENDED light will illuminate in flight when the Speedbrake lever is beyond the ARMED position and either of the following are true: the flaps are extended more than 10 degrees, or the radio altitude is less than 800 feet. New logic has been added to the MAX to include either of these two conditions as well: Thrust levers are at approximately Go-around thrust for 3 seconds, or, above Idle thrust for 15 seconds.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

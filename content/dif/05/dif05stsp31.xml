@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif05stsp31</id>
+  <graphics_location>dif05stsp31.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+	<section>
+      <id>s1</id>
+      <audio_location>dif05stsp31.mp3</audio_location>
+      <audio_text>The FCC uses a corrected AOA value to activate the MCAS function. This logic uses both AOA vanes and filters out small differences between the vanes and provides a single corrected value to the Speed Trim System. This provides additional signal processing to protect against an erroneous AOA.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s2</id>
+      <audio_location>dif05stsp31a.mp3</audio_location>
+      <audio_text>On the 737 MAX, if the left and right angle of attack (AOA) sensors disagree by 5.5 degrees or more with the Flaps UP: The amber SPEED TRIM FAIL light illuminates and the Speed Trim System (which includes the Speed Trim function and MCAS function) is inoperative for the remainder of the flight.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

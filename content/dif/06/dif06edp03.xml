@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif06edp03</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif06edp03.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif06edp03.mp3</audio_location>
+      <audio_text>To enable an entry field, select the radio button next to it by moving the cursor over the desired button and then pressing Select (SEL), located on the top of the selector inner knob. When an entry field is enabled, the field can then be selected (green). When the entry field is selected, turning the selector inner knob increases or decreases the value. Before leaving the N1 Speed REF page remember to select the SET radio button at the bottom of the column.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

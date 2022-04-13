@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif02t01</id>
+  <graphics_location>dif02t01.html</graphics_location>
+  <data></data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif02p01.mp3</audio_location>
+      <audio_text>Flight Deck Menu. Select each tab to see the system's differences, then complete all icons to complete your training.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

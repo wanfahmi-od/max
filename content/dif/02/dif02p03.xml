@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif02p03</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif02p03.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif02p03.mp3</audio_location>
+      <audio_text>The 737 MAX features an all new electronically controlled and pneumatically actuated bleed air system. Unlike the NG, the MAX bleed air comes from the 4th and 10th stages of the engine compressor, and a single engine bleed source has the ability to operate both air conditioning packs. This new system has the ability to automatically detect and isolate faults, and identify incorrect air conditioning panel switch positions. Pilot operation of the system remains unchanged.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

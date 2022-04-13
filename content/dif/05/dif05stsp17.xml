@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05stsp17</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05stsp17.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+	<section>
+      <id>s1</id>
+      <audio_location>dif05stsp17.mp3</audio_location>
+      <audio_text>The video on the next page demonstrates the Speed Trim function during an approach to stall. In this scenario, the flaps are extended causing the Speed Trim function to control the stabilizer trim motor at a high rate.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s2</id>
+      <audio_location>dif05stsp17a.mp3</audio_location>
+      <audio_text>As the airplane accelerates back to its trimmed airspeed, the stabilizer trim inputs are reversed.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

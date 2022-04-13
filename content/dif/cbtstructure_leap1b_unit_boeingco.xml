@@ -1,0 +1,608 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<organizations>
+  <organization id="IC" location="">
+    <title>B737NG to B737MAX Differences</title>
+	
+    <metadata>
+      <language>EN</language>
+      <description></description>
+      <rights>Pelesys Learning Systems Inc.</rights>
+      <content_folder>EN:content/dif</content_folder>
+    </metadata>
+	
+    <item id="home" location="menu_boeing/menu_template.html" itemtype="htmlhome">
+      <title>Home</title>
+    </item>
+
+    <item id="02" itemtype="topic">
+      <title>Flight Deck - Air Systems</title>  
+      <item id="dif02t01" location="02/dif02t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif02p02" location="02/dif02p02.xml" itemtype="canvas">
+        <title>Air System Differences</title>
+      </item>
+	  <item id="dif02p03" location="02/dif02p03.xml" itemtype="canvas">
+        <title>Bleed Air System</title>
+      </item>
+	  <item id="dif02p04" location="02/dif02p04.xml" itemtype="canvas">
+        <title>Air Conditioning Panel</title>
+      </item>
+	  <item id="dif02p05" location="02/dif02p05.xml" itemtype="canvas">
+        <title>BLEED Light</title>
+      </item>  
+	  <item id="dif02p06" location="02/dif02p06.xml" itemtype="canvas">
+        <title>PACK Light</title>
+      </item>
+	  <item id="dif02p07" location="02/dif02p07.xml" itemtype="canvas">
+        <title>Equipment Cooling Panel</title>
+      </item>
+      <item id="dif02t02" location="02/dif02t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+
+    <item id="03" itemtype="topic">
+      <title>Flight Deck - Anti-Ice</title>  
+      <item id="dif03t01" location="03/dif03t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>  
+	  <item id="dif03p02" location="03/dif03p02.xml" itemtype="canvas">
+        <title>Anti-Ice System</title>
+      </item>
+	  <item id="dif03p03" location="03/dif03p03.xml" itemtype="canvas">
+        <title>Engine Core Anti-Ice</title>
+      </item>
+	  <item id="dif03p04" location="03/dif03p04.xml" itemtype="canvas">
+        <title>ENG ANTI-ICE Alert</title>
+      </item>
+	  <item id="dif03p05" location="03/dif03p05.xml" itemtype="canvas">
+        <title>Valve Indication Lights - 1</title>
+      </item>
+	  <item id="dif03p06" location="03/dif03p06.xml" itemtype="canvas">
+        <title>Valve Indication Lights - 2</title>
+      </item>
+	  <item id="dif03p07" location="03/dif03p07.xml" itemtype="canvas">
+        <title>MASTER CAUTION Light</title>
+      </item>
+	  <item id="dif03p08" location="03/dif03p08.xml" itemtype="canvas">
+        <title>L/R VALVE Light Ground Inhibited</title>
+      </item>	  
+      <item id="dif03t02" location="03/dif03t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+
+    <item id="04" itemtype="topic">
+      <title>Flight Deck - Engines / APU</title>  
+      <item id="dif04t01" location="04/dif04t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif04p02" location="04/dif04p02.xml" itemtype="canvas">
+        <title>APU Control Panel - 1</title>
+      </item>
+	  <item id="dif04p03" location="04/dif04p03.xml" itemtype="canvas">
+        <title>APU Control Panel - 2</title>
+      </item>
+	  <item id="dif04p04" location="04/dif04p04.xml" itemtype="canvas">
+        <title>APU Door</title>
+      </item>
+      <item id="dif04t02" location="04/dif04t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif04ep02" location="04/dif04ep02.xml" itemtype="canvas">
+        <title>CFM LEAP-1B Engines</title>
+      </item>
+	  <item id="dif04ep03" location="04/dif04ep03.xml" itemtype="canvas">
+        <title>Design Differences</title>
+      </item>
+	  <item id="dif04ep04" location="04/dif04ep04.xml" itemtype="canvas">
+        <title>Motoring Indication</title>
+      </item>
+	  <item id="dif04ep05" location="04/dif04ep05.xml" itemtype="canvas">
+        <title>Electronic Engine Controls (EEC)</title>
+      </item>
+	  <item id="dif04ep06" location="04/dif04ep06.xml" itemtype="canvas">
+        <title>Engine Start</title>
+      </item>
+	  <item id="dif04ep08" location="04/dif04ep08.xml" itemtype="canvas">
+        <title>Starter Limitations</title>
+      </item>
+	  <item id="dif04ep09" location="04/dif04ep09.xml" itemtype="canvas">
+        <title>Engine Generators</title>
+      </item>
+	  <item id="dif04ep10" location="04/dif04ep10.xml" itemtype="canvas">
+        <title>Run-Up and Ground Operations - 1</title>
+      </item>
+	  <item id="dif04ep11" location="04/dif04ep11.xml" itemtype="canvas">
+        <title>Run-Up and Ground Operations - 2</title>
+      </item>
+	  <item id="dif04ep12" location="04/dif04ep12.xml" itemtype="canvas">
+        <title>Operating Envelope</title>
+      </item>
+	  <item id="dif04ep13" location="04/dif04ep13.xml" itemtype="canvas">
+        <title>Idle</title>
+      </item>
+	  <item id="dif04ep14" location="04/dif04ep14.xml" itemtype="canvas">
+        <title>Thrust Alert - 1</title>
+      </item>
+	  <item id="dif04ep15" location="04/dif04ep15.xml" itemtype="canvas">
+        <title>Thrust Alert - 2</title>
+      </item>
+	  <item id="dif04ep16" location="04/dif04ep16.xml" itemtype="canvas">
+        <title>Reverser Alerts</title>
+      </item>
+      <item id="dif04t03" location="04/dif04t03.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+
+    <item id="05" itemtype="topic">
+      <title>Flight Deck - Flight Controls</title>  
+      <item id="dif05t01" location="05/dif05t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif05fbp02" location="05/dif05fbp02.xml" itemtype="canvas">
+        <title>Flight Control Features</title>
+      </item>
+	  <item id="dif05fbp03" location="05/dif05fbp03.xml" itemtype="canvas">
+        <title>Fly-by-Wire Spoilers</title>
+      </item>
+	  <item id="dif05fbp04" location="05/dif05fbp04.xml" itemtype="canvas">
+        <title>Spoiler Control Electronics (SCE) Unit</title>
+      </item>
+	  <item id="dif05fbp05" location="05/dif05fbp05.xml" itemtype="canvas">
+        <title>Ground Spoiler Control Module (GSCM)</title>
+      </item>
+	  <item id="dif05fbp06" location="05/dif05fbp06.xml" itemtype="canvas">
+        <title>Maneuver Load Alleviation (MLA)</title>
+      </item>
+	  <item id="dif05fbp07" location="05/dif05fbp07.xml" itemtype="canvas">
+        <title>Landing Attitude Modifier (LAM)</title>
+      </item>
+	  <item id="dif05fbp08" location="05/dif05fbp08.xml" itemtype="canvas">
+        <title>Emergency Descent Speedbrakes (EDS)</title>
+      </item>	  
+      <item id="dif05t02" location="05/dif05t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+      <item id="dif05p02" location="05/dif05p02.xml" itemtype="canvas">
+        <title>Flight Control Panel</title>
+      </item>
+	  <item id="dif05p03" location="05/dif05p03.xml" itemtype="canvas">
+        <title>SPEED TRIM FAIL Light</title>
+      </item>
+	  <item id="dif05p04" location="05/dif05p04.xml" itemtype="canvas">
+        <title>SPOILERS Light</title>
+      </item>
+	  <item id="dif05p05" location="05/dif05p05.xml" itemtype="canvas">
+        <title>Elevator Jam Landing Assist (EJLA) - 1</title>
+      </item>
+	  <item id="dif05p06" location="05/dif05p06.xml" itemtype="canvas">
+        <title>Elevator Jam Landing Assist (EJLA) - 2</title>
+      </item>
+      <item id="dif05t03" location="05/dif05t03.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif05stsp00_01" location="05/dif05stsp00_01.xml" itemtype="canvas">
+        <title>Speed Trim System Introduction - 1</title>
+      </item>
+	  <item id="dif05stsp00_02" location="05/dif05stsp00_02.xml" itemtype="canvas">
+        <title>Speed Trim System Introduction - 2</title>
+      </item>
+	  <item id="dif05stsp01" location="05/dif05stsp01.xml" itemtype="canvas">
+        <title>Speed Trim System (STS)</title>
+      </item>
+	  <item id="dif05stsp02" location="05/dif05stsp02.xml" itemtype="canvas">
+        <title>Speed Trim Function - 1</title>
+      </item>
+	  <item id="dif05stsp03" location="05/dif05stsp03.xml" itemtype="canvas">
+        <title>Speed Trim Function - 2</title>
+      </item>
+	  <item id="dif05stsp04" location="05/dif05stsp04.xml" itemtype="canvas">
+        <title>Speed Trim Function - 3</title>
+      </item>
+	  <item id="dif05stsp05" location="05/dif05stsp05.xml" itemtype="canvas">
+        <title>Speed Trim Function - 4</title>
+      </item>
+	  <item id="dif05stsp06" location="05/dif05stsp06.xml" itemtype="canvas">
+        <title>Speed Trim Function - 5</title>
+      </item>
+	  <item id="dif05stsp07" location="05/dif05stsp07.xml" itemtype="canvas">
+        <title>Speed Trim Function - 6</title>
+      </item>
+	  <item id="dif05stsp08" location="05/dif05stsp08.xml" itemtype="canvas">
+        <title>Speed Trim Function - 7</title>
+      </item>
+	  <item id="dif05stsp09" location="05/dif05stsp09.xml" itemtype="canvas">
+        <title>Speed Trim Function - 8</title>
+      </item>
+	  <item id="dif05stsp10" location="05/dif05stsp10.xml" itemtype="canvas">
+        <title>Speed Trim Function - 9</title>
+      </item>
+	  <item id="dif05stsp11" location="05/dif05stsp11.xml" itemtype="canvas">
+        <title>Speed Trim Function - 10</title>
+      </item>
+	  <item id="dif05stsp12" location="05/dif05stsp12.xml" itemtype="canvas">
+        <title>Speed Trim Function - 11</title>
+      </item>
+	  <item id="dif05stsp13" location="05/dif05stsp13.xml" itemtype="canvas">
+        <title>Conditions for Operation</title>
+      </item>
+	  <item id="dif05stsp14" location="05/dif05stsp14.xml" itemtype="canvas">
+        <title>Speed Trim Function Demonstration - 1</title>
+      </item>
+	  <item id="dif05stsp15" location="05/dif05stsp15.xml" itemtype="canvas">
+        <title>Speed Trim Function Demonstration - Flaps Extended</title>
+      </item>
+	  <item id="dif05stsp16" location="05/dif05stsp16.xml" itemtype="canvas">
+        <title>Speed Trim Function Demonstration - Flaps UP</title>
+      </item>
+	  <item id="dif05stsp17" location="05/dif05stsp17.xml" itemtype="canvas">
+        <title>Approach to Stall Demonstration - 1</title>
+      </item>
+	  <item id="dif05stsp18" location="05/dif05stsp18.xml" itemtype="canvas">
+        <title>Approach to Stall Demonstration - 2</title>
+      </item>
+	  <item id="dif05stsp19" location="05/dif05stsp19.xml" itemtype="canvas">
+        <title>High AOA Mode - 1</title>
+      </item>
+	  <item id="dif05stsp20" location="05/dif05stsp20.xml" itemtype="canvas">
+        <title>High AOA Mode - 2</title>
+      </item>
+	  <item id="dif05stsp21" location="05/dif05stsp21.xml" itemtype="canvas">
+        <title>High AOA Mode - 3</title>
+      </item>
+	  <item id="dif05stsp22" location="05/dif05stsp22.xml" itemtype="canvas">
+        <title>MCAS Function - 1</title>
+      </item>
+	  <item id="dif05stsp23" location="05/dif05stsp23.xml" itemtype="canvas">
+        <title>MCAS Function - 2</title>
+      </item>
+	  <item id="dif05stsp24" location="05/dif05stsp24.xml" itemtype="canvas">
+        <title>MCAS Function - 3</title>
+      </item>
+	  <item id="dif05stsp25" location="05/dif05stsp25.xml" itemtype="canvas">
+        <title>MCAS Function - 4</title>
+      </item>
+	  <item id="dif05stsp26" location="05/dif05stsp26.xml" itemtype="canvas">
+        <title>MCAS Function - 5</title>
+      </item>
+	  <item id="dif05stsp27" location="05/dif05stsp27.xml" itemtype="canvas">
+        <title>MCAS Function - 6</title>
+      </item>
+	  <item id="dif05stsp28" location="05/dif05stsp28.xml" itemtype="canvas">
+        <title>MCAS Function - Conditions for Operation</title>
+      </item>
+	  <item id="dif05stsp29" location="05/dif05stsp29.xml" itemtype="canvas">
+        <title>High AOA Mode - 4</title>
+      </item>
+	  <item id="dif05stsp30" location="05/dif05stsp30.xml" itemtype="canvas">
+        <title>MCAS Function Logic</title>
+      </item>
+	  <item id="dif05stsp31" location="05/dif05stsp31.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  AOA Comparison</title>
+      </item>
+	  <item id="dif05stsp32" location="05/dif05stsp32.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Max Command Limit - 1</title>
+      </item>
+	  <item id="dif05stsp33" location="05/dif05stsp33.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Max Command Limit - 2</title>
+      </item>
+	  <item id="dif05stsp34" location="05/dif05stsp34.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Max Command Limit - 3</title>
+      </item>
+	  <item id="dif05stsp35" location="05/dif05stsp35.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Max Command Limit - 4</title>
+      </item>
+	  <item id="dif05stsp36" location="05/dif05stsp36.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Max Command Limit - 5</title>
+      </item>
+	  <item id="dif05stsp37" location="05/dif05stsp37.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Single MCAS Activation - 1</title>
+      </item>
+	  <item id="dif05stsp38" location="05/dif05stsp38.xml" itemtype="canvas">
+        <title>MCAS Function Logic -  Single MCAS Activation - 2</title>
+      </item>
+	  <item id="dif05stsp39" location="05/dif05stsp39.xml" itemtype="canvas">
+        <title>MCAS Function - Approach to Stall Demonstration - 1</title>
+      </item>
+	  <item id="dif05stsp40" location="05/dif05stsp40.xml" itemtype="canvas">
+        <title>MCAS Function - Approach to Stall Demonstration - 2</title>
+      </item>	  
+	  <item id="dif05stsp41" location="05/dif05stsp41.xml" itemtype="canvas">
+        <title>Function Review</title>
+      </item>
+	  <item id="dif05stsp42" location="05/dif05stsp42.xml" itemtype="canvas">
+        <title>SPEED TRIM FAIL Light</title>
+      </item>
+	  <item id="dif05stsp43" location="05/dif05stsp43.xml" itemtype="canvas">
+        <title>STAB TRIM Cutout Switches - 1</title>
+      </item>
+	  <item id="dif05stsp44" location="05/dif05stsp44.xml" itemtype="canvas">
+        <title>Main Electric Stabilizer Trim Switches</title>
+      </item>
+	  <item id="dif05stsp45" location="05/dif05stsp45.xml" itemtype="canvas">
+        <title>Control Column Cutout - 1</title>
+      </item>
+	  <item id="dif05stsp46" location="05/dif05stsp46.xml" itemtype="canvas">
+        <title>Software Column Cutout Function</title>
+      </item>
+	  <item id="dif05stsp47" location="05/dif05stsp47.xml" itemtype="canvas">
+        <title>Control Column Cutout - 2</title>
+      </item>
+	  <item id="dif05stsp48" location="05/dif05stsp48.xml" itemtype="canvas">
+        <title>STAB TRIM Cutout Switches - 2</title>
+      </item>
+	  <item id="dif05stsp49" location="05/dif05stsp49.xml" itemtype="canvas">
+        <title>Stabilizer Trim Wheel - 1</title>
+      </item>
+	  <item id="dif05stsp50" location="05/dif05stsp50.xml" itemtype="canvas">
+        <title>Stabilizer Trim Wheel - 2</title>
+      </item>	  
+	  <item id="dif05stsp51" location="05/dif05stsp51.xml" itemtype="canvas">
+        <title>Cross FCC Trim Monitor - 1</title>
+      </item>
+	  <item id="dif05stsp52" location="05/dif05stsp52.xml" itemtype="canvas">
+        <title>Cross FCC Trim Monitor - 2</title>
+      </item>
+	  <item id="dif05stsp52_01" location="05/dif05stsp52_01.xml" itemtype="canvas">
+        <title>Cross FCC Trim Monitor - 3</title>
+      </item>
+	  <item id="dif05t04" location="05/dif05t04.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif05stbp01" location="05/dif05stbp01.xml" itemtype="canvas">
+        <title>STAB TRIM Cutout Switches</title>
+      </item>
+      <item id="dif05t05" location="05/dif05t05.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif05sbp02" location="05/dif05sbp02.xml" itemtype="canvas">
+        <title>Speedbrake Lights and Logic</title>
+      </item>
+	  <item id="dif05sbp03" location="05/dif05sbp03.xml" itemtype="canvas">
+        <title>SPEEDBRAKES EXTENDED Light Logic - 1</title>
+      </item>
+	  <item id="dif05sbp04" location="05/dif05sbp04.xml" itemtype="canvas">
+        <title>SPEEDBRAKES EXTENDED Light Logic - 2</title>
+      </item>
+	  <item id="dif05sbp05" location="05/dif05sbp05.xml" itemtype="canvas">
+        <title>SPEED BRAKE DO NOT ARM Light </title>
+      </item>
+	  <item id="dif05sbp06" location="05/dif05sbp06.xml" itemtype="canvas">
+        <title>Speedbrake</title>
+      </item>
+	  <item id="dif05t06" location="05/dif05t06.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+      <item id="dif05trimp01" location="05/dif05trimp01.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Trim Control</title>
+      </item>
+      <item id="dif05trimp02" location="05/dif05trimp02.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim - 1</title>
+      </item>
+      <item id="dif05trimp03" location="05/dif05trimp03.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim - 2</title>
+      </item>
+      <item id="dif05trimp04" location="05/dif05trimp04.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim - 3</title>
+      </item>
+	  <item id="dif05trimp05" location="05/dif05trimp05.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Demo</title>
+      </item>
+	  <item id="dif05trimp06" location="05/dif05trimp06.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 1</title>
+      </item>
+	  <item id="dif05trimp07" location="05/dif05trimp07.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 2</title>
+      </item>
+	  <item id="dif05trimp08" location="05/dif05trimp08.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 3</title>
+      </item>
+	  <item id="dif05trimp09" location="05/dif05trimp09.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 4</title>
+      </item>
+	  <item id="dif05trimp10" location="05/dif05trimp10.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 5</title>
+      </item>
+	  <item id="dif05trimp11" location="05/dif05trimp11.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 6</title>
+      </item>
+	  <item id="dif05trimp12" location="05/dif05trimp12.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Manual Stabilizer Trim Techniques - 7</title>
+      </item>
+	  <item id="dif05t07" location="05/dif05t07.xml" itemtype="canvas">
+        <title>AFDS</title>
+      </item>
+      <item id="dif05afdp01" location="05/dif05afdp01.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Overview</title>
+      </item>
+      <item id="dif05afdp02" location="05/dif05afdp02.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Automatic Disengagement of Autopilot</title>
+      </item>
+      <item id="dif05afdp03" location="05/dif05afdp03.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Flight Director Removal</title>
+      </item>
+      <item id="dif05afdp04" location="05/dif05afdp04.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>AFDS Pitch Mode Transition</title>
+      </item>
+	  <item id="dif05afdp05" location="05/dif05afdp05.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>AFDS Pitch Mode Transition Table</title>
+      </item>
+	  <item id="dif05afdp06" location="05/dif05afdp06.xml" itemtype="canvas" completion="" auto_forward="false" visible="true" nav_button="both">
+        <title>Autopilot Nose Up Stabilizer Trim Inhibit</title>
+      </item>	  
+      <item id="dif05t08" location="05/dif05t08.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+
+    <item id="06" itemtype="topic">
+      <title>Flight Deck - Flight Instruments</title>  
+      <item id="dif06t01" location="06/dif06t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+      <item id="dif06p01" location="06/dif06p01.xml" itemtype="canvas">
+        <title>Glareshield</title>
+      </item>	  	  
+	  <item id="dif06obp01" location="06/dif06obp01.xml" itemtype="canvas">
+        <title>Outboard Displays / Display Failures</title>
+      </item>
+	  <item id="dif06obp02" location="06/dif06obp02.xml" itemtype="canvas">
+        <title>Auxiliary Display - 1</title>
+      </item>	  
+	  <item id="dif06obp03" location="06/dif06obp03.xml" itemtype="canvas">
+        <title>Auxiliary Display - 2</title>
+      </item>	  
+	  <item id="dif06obp04" location="06/dif06obp04.xml" itemtype="canvas">
+        <title>Auxiliary Display - 3</title>
+      </item>	  
+	  <item id="dif06obp05" location="06/dif06obp05.xml" itemtype="canvas">
+        <title>Clock Switch</title>
+      </item>	  
+	  <item id="dif06obp06" location="06/dif06obp06.xml" itemtype="canvas">
+        <title>Compass Rose</title>
+      </item>	  
+	  <item id="dif06obp07" location="06/dif06obp07.xml" itemtype="canvas">
+        <title>Automatic Switching</title>
+      </item>	  
+	  <item id="dif06obp08" location="06/dif06obp08.xml" itemtype="canvas">
+        <title>Mini-Map</title>
+      </item>	  
+      <item id="dif06p02" location="06/dif06p02.xml" itemtype="canvas">
+        <title>Glareshield</title>
+      </item>	  	  	  
+	  <item id="dif06ibp01" location="06/dif06ibp01.xml" itemtype="canvas">
+        <title>Multi-Function Displays - 1</title>
+      </item>
+	  <item id="dif06ibp02" location="06/dif06ibp02.xml" itemtype="canvas">
+        <title>Multi-Function Displays - 2</title>
+      </item>		  
+      <item id="dif06p03" location="06/dif06p03.xml" itemtype="canvas">
+        <title>Glareshield</title>
+      </item>	  	  
+	  <item id="dif06efp01" location="06/dif06efp01.xml" itemtype="canvas">
+        <title>ND / WXR Range Selector</title>
+      </item>
+	  <item id="dif06efp02" location="06/dif06efp02.xml" itemtype="canvas">
+        <title>Vertical Situation Display (VSD) Switch</title>
+      </item>
+      <item id="dif06p04" location="06/dif06p04.xml" itemtype="canvas">
+        <title>Glareshield</title>
+      </item>
+	  <item id="dif06edp01" location="06/dif06edp01.xml" itemtype="canvas">
+        <title>Engine Display Control Panel - 1</title>
+      </item>
+	  <item id="dif06edp02" location="06/dif06edp02.xml" itemtype="canvas">
+        <title>Engine Display Control Panel - 2</title>
+      </item>	  
+	  <item id="dif06edp03" location="06/dif06edp03.xml" itemtype="canvas">
+        <title>Entry Field</title>
+      </item>	  
+	  <item id="dif06edp04" location="06/dif06edp04.xml" itemtype="canvas">
+        <title>Using the SELECTOR Knob</title>
+      </item>	  
+      <item id="dif06p05" location="06/dif06p05.xml" itemtype="canvas">
+        <title>Glareshield</title>
+      </item>	  	  	  	  
+	  <item id="dif06bp01" location="06/dif06bp01.xml" itemtype="canvas">
+        <title>Location</title>
+      </item>
+	  <item id="dif06bp02" location="06/dif06bp02.xml" itemtype="canvas">
+        <title>Function</title>
+      </item>
+	  <item id="dif06bp03" location="06/dif06bp03.xml" itemtype="canvas">
+        <title>Master Lights Test and DIM Switch</title>
+      </item>	  	  
+      <item id="dif06p06" location="06/dif06p06.xml" itemtype="canvas">
+        <title>Glareshield</title>
+      </item>	  	  
+      <item id="dif06t02" location="06/dif06t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+
+    <item id="07" itemtype="topic">
+      <title>Flight Deck - Fuel / FMC</title>  
+      <item id="dif07t01" location="07/dif07t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+      <item id="dif07p01" location="07/dif07p01.xml" itemtype="canvas">
+        <title>Filter Alerts</title>
+      </item>
+	  <item id="dif07p02" location="07/dif07p02.xml" itemtype="canvas">
+        <title>Fuel System and FMC - 1</title>
+      </item>
+	  <item id="dif07p03" location="07/dif07p03.xml" itemtype="canvas">
+        <title>Fuel System and FMC - 2</title>
+      </item>
+	  <item id="dif07p04" location="07/dif07p04.xml" itemtype="canvas">
+        <title>Alerts - 1</title>
+      </item>
+	  <item id="dif07p05" location="07/dif07p05.xml" itemtype="canvas">
+        <title>Fuel Disagree - 1</title>
+      </item>
+	  <item id="dif07p06" location="07/dif07p06.xml" itemtype="canvas">
+        <title>Fuel Disagree - 2</title>
+      </item>
+	  <item id="dif07p07" location="07/dif07p07.xml" itemtype="canvas">
+        <title>Alerts - 2</title>
+      </item>
+	  <item id="dif07p09" location="07/dif07p09.xml" itemtype="canvas">
+        <title>SENS / CALC / MAN</title>
+      </item>
+      <item id="dif07t02" location="07/dif07t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+    <item id="08" itemtype="topic">
+      <title>Flight Deck - Landing Gear</title>  
+      <item id="dif08t01" location="08/dif08t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+	  <item id="dif08p02" location="08/dif08p02.xml" itemtype="canvas">
+        <title>Landing Gear Differences</title>
+      </item>
+	  <item id="dif08p03" location="08/dif08p03.xml" itemtype="canvas">
+        <title>Landing Gear Location</title>
+      </item>
+	  <item id="dif08p04" location="08/dif08p04.xml" itemtype="canvas">
+        <title>Landing Gear Lever</title>
+      </item>
+	  <item id="dif08p05" location="08/dif08p05.xml" itemtype="canvas">
+        <title>AUTO BRAKE and BRAKE PRESS Location</title>
+      </item>
+      <item id="dif08t02" location="08/dif08t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+    <item id="09" itemtype="topic">
+      <title>Flight Deck - Other Systems</title>  
+      <item id="dif09t01" location="09/dif09t01.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+      <item id="dif09p01" location="09/dif09p01.xml" itemtype="canvas">
+        <title>Vertical Situation Display (VSD)</title>
+      </item>	 
+	  <item id="dif09p02" location="09/dif09p02.xml" itemtype="canvas">
+        <title>VSD Ranging</title>
+      </item>	  
+	  <item id="dif09p03" location="09/dif09p03.xml" itemtype="canvas">
+        <title>VSD Altitude</title>
+      </item>
+	  <item id="dif09p04" location="09/dif09p04.xml" itemtype="canvas">
+        <title>Flight Path Vector</title>
+      </item>
+	  <item id="dif09p05" location="09/dif09p05.xml" itemtype="canvas">
+        <title>Vertical Speed Vector</title>
+      </item>
+	  <item id="dif09p06" location="09/dif09p06.xml" itemtype="canvas">
+        <title>VSD Components</title>
+      </item>
+      <item id="dif09t02" location="09/dif09t02.xml" itemtype="canvas">
+        <title>Flight Deck</title>
+      </item>
+    </item>
+  </organization>
+</organizations>

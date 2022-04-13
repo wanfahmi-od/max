@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05stsp45</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05stsp45.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+	<section>
+      <id>s1</id>
+      <audio_location>dif05stsp45.mp3</audio_location>
+      <audio_text>Additionally, the 737NG and 737 MAX have micro-switches at the base of the control column. These micro-switches are known as the control column actuated stabilizer trim cutout switches. They are designed to stop operation of the main electric, autopilot, and Speed Trim function when the control column movement opposes trim direction.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

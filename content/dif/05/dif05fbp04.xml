@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05fbp04</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05fbp04.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05fbp04.mp3</audio_location>
+      <audio_text>On the MAX, the fly-by-wire spoilers are controlled by the Spoiler Control Electronics Unit, or SCE unit. The SCE unit translates signals from the Speedbrake lever position sensor, the First Officer’s control wheel position sensors, and other airplane air data input to electrically control each flight spoiler hydraulic Power Control Units (PCUs) to achieve the desired roll and/or drag.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

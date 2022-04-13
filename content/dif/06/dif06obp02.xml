@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif06obp02</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif06obp02.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif06obp02.mp3</audio_location>
+      <audio_text>The AUX area contains flight information for pilot reference, which includes essential data as well as an area reserved for operator customization, such as CPDLC and ATIS display. This is also where the Cat 3 placard can be found in the MAX. Since the 737 MAX does not contain a physical clock, the UTC time and date are also shown here. The UTC time and date are automatically set using GPS inputs, removing the need to manually set the clock. If there is a clock discrepancy, maintenance can manually adjust the display time.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

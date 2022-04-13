@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif07p01</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif07p01.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif07p01.mp3</audio_location>
+      <audio_text>Let’s take a look at some of the Fuel System Differences you’ll find in the MAX, beginning with the fuel panel and the FILTER BYPASS alerts. You’ll recall that a fuel filter bypass light indicates an impending fuel filter bypass. If both FILTER BYPASS lights are illuminated land at the nearest suitable airport. On the NG, the FILTER BYPASS lights operate independently of each other. </audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif07p01a.mp3</audio_location>
+      <audio_text>On the MAX, the FILTER BYPASS light logic considers both FILTER BYPASS lights. If at some point in the flight a condition triggers the other FILTER BYPASS light, both FILTER BYPASS lights will illuminate, and STAY illuminated until engine shutdown on the ground.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

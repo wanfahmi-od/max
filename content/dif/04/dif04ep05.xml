@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif04ep05</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif04ep05.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif04ep05.mp3</audio_location>
+      <audio_text>Let’s take a step out of the start procedure to talk a little bit more about the Electronic Engine Controls (EECs). The EECs on the MAX incorporate 2 new automatic engine shut down functions. The first, Electronic Overspeed (EOS) prevents a rotor Overspeed from exceeding engine structural design limits both in flight or on the ground. If an overspeed event is detected, the EECs will shut down the engine.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s2</id>
+      <audio_location>dif04ep05a.mp3</audio_location>
+      <audio_text>In addition, the EEC has Thrust Control Malfunction Accommodation (TCMA) logic used to detect an Uncontrolled High Thrust event on the ground. If the engine thrust levers are reduced to IDLE on the ground and an engine does not respond to the IDLE command, the engine will be shut down by the EEC. EOS and TCMA are both transparent to the flight crew, and will present themselves as an engine failure by annunciating the ENG FAIL alert on the Primary Flight Display.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

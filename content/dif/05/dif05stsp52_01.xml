@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05stsp52_01</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05stsp52_01.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+	<section>
+      <id>s1</id>
+      <audio_location>dif05stsp52_01.mp3</audio_location>
+      <audio_text>If the Cross FCC Trim Monitor has activated in flight, when on the ground and the ground speed is below 30 knots, the STAB OUT OF TRIM light will illuminate to indicate a partial failure of the FCC. Refer to the STABILIZER OUT OF TRIM non-normal checklist, which will instruct the flight crew not to takeoff.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

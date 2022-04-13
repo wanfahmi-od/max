@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif05p05</id>
+  <graphics_location>dif05p05.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05p05.mp3</audio_location>
+      <audio_text>Elevator Jam Landing Assist is a function of the SCE Unit which provides pilots with a means of increasing or decreasing descent rates during approach and landing through the use of flight spoilers in the event of a jammed pitch control. Located on the aft overhead panel, just above the FLIGHT CONTROL panel, you’ll find an additional flight control switch and light called the ELEVATOR JAM LANDING ASSIST switch and ASSIST ON light.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif05p05a.mp3</audio_location>
+      <audio_text>The light illuminates when the Elevator Jam Landing Assist system is active. To activate the system, the Elevator Jam Landing Assist switch must be selected ON, the flap position must be one or greater and the autopilot must be disengaged. Pilots will activate the system as directed by the jammed or restricted flight controls non-normal checklist.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

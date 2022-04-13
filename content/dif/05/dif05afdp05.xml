@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-01-07</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05afdp05</id>
+  <title>AFDS Pitch Mode Transition Table</title>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05afdp05.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05afdp05.mp3</audio_location>
+      <audio_text>The table below details the pitch modes that do not have minimum speed reversion.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s2</id>
+      <audio_location>dif05afdp05a.mp3</audio_location>
+      <audio_text>In these modes, the autopilot automatically disengages and the flight directors are temporarily removed 1 second following stick shaker activation. When airspeed is increased above the amber bar, flight director guidance returns, and in some cases, the pitch mode transitions to another mode. After recovery, ensure that the desired airspeed is set in the MCP speed window.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s3</id>
+      <audio_location>dif05afdp05b.mp3</audio_location>
+      <audio_text>Note that the autopilot does not automatically disengage following stick shaker activation in other modes.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

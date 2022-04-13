@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif04ep06</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif04ep06.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+      <section>
+      <id>s1</id>
+      <audio_location>dif04ep06.mp3</audio_location>
+      <audio_text>When the engine start lever is moved to the idle detent, the EEC performs a functional test of the EOS and TCMA logic. During this test, fuel flow will indicate zero and the engine fuel shutoff valve will open and close repeatedly. The ENG VALVE CLOSED light will illuminate and remain bright blue during this logic test, and will extinguish when the test is complete.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif04ep06a.mp3</audio_location>
+      <audio_text>Once the test is complete, the engine start sequence continues. Due to BRM and the EOS/TCMA logic test, the overall start time for the LEAP-1B is longer than it is for the CFM 56. Select the engine 2 start switch to move the switch to ground and to play the real time engine start video.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>wait</advance>
+    </section>
+	 <section>
+      <id>s3</id>
+      <audio_location>dif04ep07.mp3</audio_location>
+      <audio_text>The real time engine start is now in progress. Please note, due to the higher temperatures that the leap 1B operates at, the EGT is now a 4 digit display. When the video is complete select NEXT to continue.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

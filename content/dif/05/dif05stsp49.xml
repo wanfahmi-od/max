@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05stsp49</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05stsp49.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+	<section>
+      <id>s1</id>
+      <audio_location>dif05stsp49.mp3</audio_location>
+      <audio_text>On the 737NG and 737 MAX, grasping the stabilizer trim wheel will stop stabilizer motion while the trim wheel is being held.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

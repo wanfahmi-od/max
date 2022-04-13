@@ -1,0 +1,74 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05stsp00_02</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05stsp00_02.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05stsp00_02.mp3</audio_location>
+      <audio_text>This CBT details operation of the Speed Trim System (STS) and includes comprehensive discussion on the Speed Trim function and Maneuvering Characteristics Augmentation System (MCAS) function.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	    <section>
+      <id>s2</id>
+      <audio_location>dif05stsp00_02a.mp3</audio_location>
+      <audio_text>The MCAS function was implemented on the 737 MAX to comply with regulatory certification requirements for control column forces at high angles of attack.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	    <section>
+      <id>s3</id>
+      <audio_location>dif05stsp00_02b.mp3</audio_location>
+      <audio_text>Compared to the 737NG, the 737 MAX has a larger diameter engine which is located farther forward on the wing. This contributed to minor changes in aerodynamic pitch characteristics at high angles of attack with Flaps UP. This resulted in control column forces that did not consistently increase as a function of angle of attack.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	    <section>
+      <id>s4</id>
+      <audio_location>dif05stsp00_02c.mp3</audio_location>
+      <audio_text>The MCAS function was added to the 737 MAX which helped ensure certifiable control column forces.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	    <section>
+      <id>s5</id>
+      <audio_location>dif05stsp00_02d.mp3</audio_location>
+      <audio_text>In the event MCAS becomes inoperative, Boeing has conducted extensive flight testing to validate that the aircraft is safe and controllable in all areas of the certified flight envelope.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

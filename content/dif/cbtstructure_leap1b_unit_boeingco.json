@@ -1,0 +1,4653 @@
+{
+	"__playerversion": "1.7.5.22153",
+	"id": "content/dif/cbtstructure_leap1b_unit_boeingco.xml",
+	"defaultOrganizationId": "IC",
+	"organizations": [
+		{
+			"language": "EN",
+			"contentPath": "content/dif/",
+			"date": "",
+			"expiryDate": "",
+			"fullItems": [
+				{
+					"isVisible": true,
+					"id": "home",
+					"title": "Home",
+					"type": "htmlhome",
+					"location": "menu_boeing/menu_template.html",
+					"folderPath": "content/dif/menu_boeing/"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p01.mp3",
+									"audioText": "Flight Deck Menu. Select each tab to see the system's differences, then complete all icons to complete your training.",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "02/dif02t01.xml",
+							"graphicsLocation": "dif02t01.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p02.mp3",
+									"audioText": "Let’s take a look at the MAX Air System differences.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02p02",
+							"title": "Air System Differences",
+							"type": "canvas",
+							"location": "02/dif02p02.xml",
+							"graphicsLocation": "dif02p02.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p03.mp3",
+									"audioText": "The 737 MAX features an all new electronically controlled and pneumatically actuated bleed air system. Unlike the NG, the MAX bleed air comes from the 4th and 10th stages of the engine compressor, and a single engine bleed source has the ability to operate both air conditioning packs. This new system has the ability to automatically detect and isolate faults, and identify incorrect air conditioning panel switch positions. Pilot operation of the system remains unchanged.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02p03",
+							"title": "Bleed Air System",
+							"type": "canvas",
+							"location": "02/dif02p03.xml",
+							"graphicsLocation": "dif02p03.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p04.mp3",
+									"audioText": "The RAM DOOR FULL OPEN lights on the NG Air Conditioning panel, have been removed from the MAX, as there is no procedural use of the lights. On the MAX panel you’ll also find a light nomenclature change, the BLEED TRIP OFF lights are now labeled BLEED. A new BLEED non-normal checklist replaces the BLEED TRIP OFF non-normal checklist on the NG.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02p04",
+							"title": "Air Conditioning Panel",
+							"type": "canvas",
+							"location": "02/dif02p04.xml",
+							"graphicsLocation": "dif02p04.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p05.mp3",
+									"audioText": "Like the NG, a single BLEED light will illuminate for an over-temperature or overpressure condition. In addition, the MAX illuminates a single BLEED light for a system fault or failure. Both BLEED lights illuminate if both bleed air switches are in the OFF position 45 seconds after the flaps have been retracted following a takeoff or go-around.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02p05",
+							"title": "BLEED Light",
+							"type": "canvas",
+							"location": "02/dif02p05.xml",
+							"graphicsLocation": "dif02p05.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p06.mp3",
+									"audioText": "Like the NG, a PACK light will illuminate for a pack control failure or overheat. In addition, a PACK light will illuminate if a Flow Control Valve fails in the closed position. Both PACK lights will illuminate 45 seconds after the flaps have been retracted following a takeoff if both pack switches are in the OFF position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02p06",
+							"title": "PACK Light",
+							"type": "canvas",
+							"location": "02/dif02p06.xml",
+							"graphicsLocation": "dif02p06.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif02p07.mp3",
+									"audioText": "The MAX Air System also features a new EQUIP SMOKE light on the Equipment Cooling Panel. The light will illuminate if smoke is detected in the equipment cooling system. The Equipment Cooling Supply OFF lights are now located toward the top of the panel. A new non-normal checklist has been created for this alert.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02p07",
+							"title": "Equipment Cooling Panel",
+							"type": "canvas",
+							"location": "02/dif02p07.xml",
+							"graphicsLocation": "dif02p07.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif02t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "02/dif02t02.xml",
+							"graphicsLocation": "dif02t02.html",
+							"data": false,
+							"parentId": "02",
+							"folderPath": "content/dif/02/"
+						}
+					],
+					"id": "02",
+					"title": "Flight Deck - Air Systems",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "03/dif03t01.xml",
+							"graphicsLocation": "dif03t01.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p02.mp3",
+									"audioText": "In this module, we’ll discuss the MAX anti-ice system. Bleed air is now obtained from the 4th and 10th stages of the engine as opposed to the 5th and 9th stage on the NG.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p02",
+							"title": "Anti-Ice System",
+							"type": "canvas",
+							"location": "03/dif03p02.xml",
+							"graphicsLocation": "dif03p02.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p03.mp3",
+									"audioText": "The MAX LEAP engine introduces a new heating system for the engine core, called “core anti-ice.” The Electronic Engine Controls (EEC’s) automatically control the core anti-ice system by directing bleed air to the engine core as needed, with no flight crew input or indication of normal operation.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p03",
+							"title": "Engine Core Anti-Ice",
+							"type": "canvas",
+							"location": "03/dif03p03.xml",
+							"graphicsLocation": "dif03p03.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p04.mp3",
+									"audioText": "A new alert has been added to the MAX, the ENG ANTI-ICE alert. It will annunciate for either of the following conditions: the core anti-ice system is inoperative, or the cowl anti-ice system is inoperative or will not function if selected. A new non-normal checklist for this alert has been added to the Quick Reference Handbook.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p04",
+							"title": "ENG ANTI-ICE Alert",
+							"type": "canvas",
+							"location": "03/dif03p04.xml",
+							"graphicsLocation": "dif03p04.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p05.mp3",
+									"audioText": "The valve indication lights have changed from blue to amber in the MAX. Additionally, the nomenclature has changed from the NG; COWL VALVE OPEN is now called COWL VALVE, and the wing Anti-Ice L VALVE OPEN and R VALVE OPEN lights are now called L VALVE and R VALVE.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p05",
+							"title": "Valve Indication Lights - 1",
+							"type": "canvas",
+							"location": "03/dif03p05.xml",
+							"graphicsLocation": "dif03p05.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p06.mp3",
+									"audioText": "For normal operation, both the 737 MAX wing and engine anti-ice lights will illuminate amber during valve transition and extinguish when in the commanded position. While the same lights on the 737NG illuminated bright blue during valve transition, dimmed when the valve reached the open position, or extinguished when in the closed position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p06",
+							"title": "Valve Indication Lights - 2",
+							"type": "canvas",
+							"location": "03/dif03p06.xml",
+							"graphicsLocation": "dif03p06.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p07.mp3",
+									"audioText": "On the NG, a valve position disagreement is indicated by the valve light remaining bright blue. On the MAX, if the valve position disagrees with the commanded position the valve light remains illuminated and the MASTER CAUTION illuminates after approximately 6 seconds. Move the wing anti-ice switch to the off position to see an example.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p07",
+							"title": "MASTER CAUTION Light",
+							"type": "canvas",
+							"location": "03/dif03p07.xml",
+							"graphicsLocation": "dif03p07.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif03p08.mp3",
+									"audioText": "On both the NG and MAX the wing anti-ice valves will close if the engine thrust is above the takeoff warning setting or if a wing anti-ice duct over temperature is detected. For either of these conditions; on the NG the wing anti-ice valve open lights illuminated bright blue and on the MAX the lights are now inhibited on the ground.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03p08",
+							"title": "L/R VALVE Light Ground Inhibited",
+							"type": "canvas",
+							"location": "03/dif03p08.xml",
+							"graphicsLocation": "dif03p08.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif03t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "03/dif03t02.xml",
+							"graphicsLocation": "dif03t02.html",
+							"data": false,
+							"parentId": "03",
+							"folderPath": "content/dif/03/"
+						}
+					],
+					"id": "03",
+					"title": "Flight Deck - Anti-Ice",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "04/dif04t01.xml",
+							"graphicsLocation": "dif04t01.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04p02.mp3",
+									"audioText": "Let’s take a look at the differences you’ll find when comparing the NG and MAX APU control panels.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04p02",
+							"title": "APU Control Panel - 1",
+							"type": "canvas",
+							"location": "04/dif04p02.xml",
+							"graphicsLocation": "dif04p02.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04p03.mp3",
+									"audioText": "The MAX APU Control Panel no longer contains an exhaust gas temperature gauge (EGT) or the blue MAINT light found on the NG.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04p03",
+							"title": "APU Control Panel - 2",
+							"type": "canvas",
+							"location": "04/dif04p03.xml",
+							"graphicsLocation": "dif04p03.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04p04.mp3",
+									"audioText": "The MAX APU inlet door is no longer just opened or closed, it has three positions: ground or full open, in-flight or partially open, and closed. As a result, a DOOR light has replaced the MAINT light on the APU Control Panel. After time is allowed for door movement, the DOOR light illuminates when it is not in the commanded position. A new non-normal checklist has been added to the QRH for this alert.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04p04",
+							"title": "APU Door",
+							"type": "canvas",
+							"location": "04/dif04p04.xml",
+							"graphicsLocation": "dif04p04.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "04/dif04t02.xml",
+							"graphicsLocation": "dif04t02.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep02.mp3",
+									"audioText": "The 737 MAX is powered by two CFM LEAP-1B engines which have been completely redesigned to provide lower fuel burn, lower emissions and lower noise levels.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep02",
+							"title": "CFM LEAP-1B Engines",
+							"type": "canvas",
+							"location": "04/dif04ep02.xml",
+							"graphicsLocation": "dif04ep02.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep03.mp3",
+									"audioText": "When starting the engine, the EEC will initially maintain an N2 between 18% and 24.0% depending on certain conditions. The time spent motoring is called Bowed Rotor Motoring (BRM). BRM is designed to straighten the rotor shaft which will naturally “bow” due to thermal buildup after the engine is shutdown. BRM timing is variable, depending on several factors such as time since engine shutdown, internal engine temperature, ambient temperature, etc. BRM will be active for approximately 6-90 seconds and is only active for engine starts on the ground.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep03",
+							"title": "Design Differences",
+							"type": "canvas",
+							"location": "04/dif04ep03.xml",
+							"graphicsLocation": "dif04ep03.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep04.mp3",
+									"audioText": "When BRM is active, a “MOTORING” indication will be shown on the N2 engine display when N2 reaches 18%. This indication will remain until BRM is no longer active. After the MOTORING indication blanks, N1 rotation is seen, and N2 is at 25% or (if 25% is not possible), at  maximum motoring and a minimum of 20% N2, the engine start lever is moved to the idle detent.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep04",
+							"title": "Motoring Indication",
+							"type": "canvas",
+							"location": "04/dif04ep04.xml",
+							"graphicsLocation": "dif04ep04.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep05.mp3",
+									"audioText": "Let’s take a step out of the start procedure to talk a little bit more about the Electronic Engine Controls (EECs). The EECs on the MAX incorporate 2 new automatic engine shut down functions. The first, Electronic Overspeed (EOS) prevents a rotor Overspeed from exceeding engine structural design limits both in flight or on the ground. If an overspeed event is detected, the EECs will shut down the engine.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif04ep05a.mp3",
+									"audioText": "In addition, the EEC has Thrust Control Malfunction Accommodation (TCMA) logic used to detect an Uncontrolled High Thrust event on the ground. If the engine thrust levers are reduced to IDLE on the ground and an engine does not respond to the IDLE command, the engine will be shut down by the EEC. EOS and TCMA are both transparent to the flight crew, and will present themselves as an engine failure by annunciating the ENG FAIL alert on the Primary Flight Display.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep05",
+							"title": "Electronic Engine Controls (EEC)",
+							"type": "canvas",
+							"location": "04/dif04ep05.xml",
+							"graphicsLocation": "dif04ep05.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep06.mp3",
+									"audioText": "When the engine start lever is moved to the idle detent, the EEC performs a functional test of the EOS and TCMA logic. During this test, fuel flow will indicate zero and the engine fuel shutoff valve will open and close repeatedly. The ENG VALVE CLOSED light will illuminate and remain bright blue during this logic test, and will extinguish when the test is complete.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif04ep06a.mp3",
+									"audioText": "Once the test is complete, the engine start sequence continues. Due to BRM and the EOS/TCMA logic test, the overall start time for the LEAP-1B is longer than it is for the CFM 56. Select the engine 2 start switch to move the switch to ground and to play the real time engine start video.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif04ep07.mp3",
+									"audioText": "The real time engine start is now in progress. Please note, due to the higher temperatures that the leap 1B operates at, the EGT is now a 4 digit display. When the video is complete select NEXT to continue.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep06",
+							"title": "Engine Start",
+							"type": "canvas",
+							"location": "04/dif04ep06.xml",
+							"graphicsLocation": "dif04ep06.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep08.mp3",
+									"audioText": "The engine starter limitations are changed for the LEAP-1B. For the normal starter duty cycle, multiple start attempts are allowed similar to the CFM 56; however, each normal start attempt is limited to 3 minutes on the MAX, compared to 2 minutes on the NG. Starter usage is limited to 5 minutes for all extended engine motorings. A minimum of 5 minutes is needed between the first two extended engine motorings. For the third and subsequent extended engine motorings, a minimum of 10 minutes is needed between each engine extended motoring. The recommended engine warm up time before takeoff for the LEAP-1B is 3 minutes with an oil temperature of 31° celsius, as opposed to 2 minutes on the CFM 56.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep08",
+							"title": "Starter Limitations",
+							"type": "canvas",
+							"location": "04/dif04ep08.xml",
+							"graphicsLocation": "dif04ep08.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep09.mp3",
+									"audioText": "During engine starts the LEAP-1B will achieve stabilized idle more slowly than the CFM56-7. Stabilized idle is indicated when the EGT Start Limit line is removed. After engine start the engine generators can be selected ON only after the engine has achieved stabilized idle.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep09",
+							"title": "Engine Generators",
+							"type": "canvas",
+							"location": "04/dif04ep09.xml",
+							"graphicsLocation": "dif04ep09.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep10.mp3",
+									"audioText": "Due to updated engine icing certification requirements, the engine static run-up and ground idle operations in icing conditions have also changed in the FCOM cold weather operations supplementary procedure for the LEAP-1B. When engine anti-ice is required and the Outside Air Temperature is 3° celsius or below (or if there is increased fan vibration due to fan ice accumulation), increase thrust on each engine to a minimum of 50% N1 then decrease thrust to idle. Repeat at intervals not to exceed 60 minutes.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep10",
+							"title": "Run-Up and Ground Operations - 1",
+							"type": "canvas",
+							"location": "04/dif04ep10.xml",
+							"graphicsLocation": "dif04ep10.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep11.mp3",
+									"audioText": "Before takeoff, ensure engine warm-up requirements are met (refer to the FCOM cold weather operations supplementary procedures). Within 5 minutes of, or in conjunction with the takeoff, run-up to a minimum of 50% N1 for a minimum of 5 seconds, and confirm stable engine operation prior to setting takeoff thrust.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep11",
+							"title": "Run-Up and Ground Operations - 2",
+							"type": "canvas",
+							"location": "04/dif04ep11.xml",
+							"graphicsLocation": "dif04ep11.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep12.mp3",
+									"audioText": "In addition, the LEAP-1B engine has the following ground wind operating limitations. For crosswinds greater than 43 knots, limit thrust to a setting normally used for taxi. For winds greater than 58 knots, except when setting takeoff thrust on the runway, limit engine thrust to idle.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep12",
+							"title": "Operating Envelope",
+							"type": "canvas",
+							"location": "04/dif04ep12.xml",
+							"graphicsLocation": "dif04ep12.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep13.mp3",
+									"audioText": "In addition to ground, flight and approach idle, the MAX has one additional idle: Icing Idle. Icing idle is the highest idle setting, and is selected by the EECs in flight if the engine anti-ice is selected ON and both the flaps and the gear are up. When in the icing idle mode the EEC begins transition from minimum flight idle at 30,400 feet and increases idle in the descent to provide full icing idle at 22,000 feet. In other words, icing idle is not available above 30,400 feet.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep13",
+							"title": "Idle",
+							"type": "canvas",
+							"location": "04/dif04ep13.xml",
+							"graphicsLocation": "dif04ep13.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep14.mp3",
+									"audioText": "Engine alerts are shown in the upper right corner of the Engine Display. Two additional engine alerts have been added to the MAX: THRUST and FUEL FLOW. The FUEL FLOW alert is discussed in further detail in the Fuel module.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep14",
+							"title": "Thrust Alert - 1",
+							"type": "canvas",
+							"location": "04/dif04ep14.xml",
+							"graphicsLocation": "dif04ep14.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep15.mp3",
+									"audioText": "The THRUST alert logic compares the commanded thrust with the engine’s actual thrust. In addition to the THRUST alert, the THRUST alert logic will display an amber command sector THRUST arc on the N1 gauge. When triggered, all alerts in the upper right hand corner of the engine display will initially blink for 10 seconds, and will remain steady until the condition no longer exists. The blinking functionality of these alerts is inhibited during takeoff, landing and go-around at various preset altitudes to prevent flight crew distraction during critical phases of flight.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep15",
+							"title": "Thrust Alert - 2",
+							"type": "canvas",
+							"location": "04/dif04ep15.xml",
+							"graphicsLocation": "dif04ep15.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif04ep16.mp3",
+									"audioText": "Let’s move to the aft overhead panel and finish the Engine Controls and Indicators section with a discussion of reverser alert differences. The 737 MAX has three reverser alerts: The REVERSER COMMAND light indicates that a reverser is commanded by the pilot to deploy inflight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif04ep16a.mp3",
+									"audioText": "The REVERSER AIR/GND light indicates that the Reverser air/ground protection is lost. The REVERSER LIMITED alert replaces the REVERSER alert on the 737NG. The REVERSER LIMITED light indicates reverse thrust is unavailable on the affected engine, or is limited to reverse idle. Also note, there are new non-normal checklists associated with each of these alerts.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04ep16",
+							"title": "Reverser Alerts",
+							"type": "canvas",
+							"location": "04/dif04ep16.xml",
+							"graphicsLocation": "dif04ep16.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif04t03",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "04/dif04t03.xml",
+							"graphicsLocation": "dif04t03.html",
+							"data": false,
+							"parentId": "04",
+							"folderPath": "content/dif/04/"
+						}
+					],
+					"id": "04",
+					"title": "Flight Deck - Engines / APU",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t01.xml",
+							"graphicsLocation": "dif05t01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp02.mp3",
+									"audioText": "Let’s discuss some of the new flight control features you’ll find in the MAX.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp02",
+							"title": "Flight Control Features",
+							"type": "canvas",
+							"location": "05/dif05fbp02.xml",
+							"graphicsLocation": "dif05fbp02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp03.mp3",
+									"audioText": "The 737 MAX is designed to fly like the 737NG. During normal operations, both airplanes respond to control wheel and column inputs. A new fly-by-wire spoiler system is in place on the MAX to reduce weight and add enhanced functionalities. These new functionalities include: Maneuver Load Alleviation (MLA), Landing Attitude Modifier (LAM), Emergency Descent Speedbrakes, (EDS), Elevator Jam Landing Assist System and Speedbrake logic changes.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05fbp03a.mp3",
+									"audioText": "The Elevator Jam Landing Assist System, Speedbrake logic changes, and minor nomenclature changes for the stabilizer trim cutout switches, are discussed in separate sections of this Flight Control module.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05fbp03b.mp3",
+									"audioText": "To increase the aircrafts descent rate during a high altitude loss of pressurization event, the 737 MAX has an emergency descent speedbrakes (EDS) system. The system is armed when the airplane is above 30,000 feet and the cabin altitude warning is active. The EDS system increases the descent rate by raising the speedbrakes to a higher than normal position when the crew moves the speedbrakes lever to the flight detent as part of the emergency descent procedure.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif05fbp03c.mp3",
+									"audioText": "EDS operation is transparent to the flight crew. EDS is deactivated when the flight crew stows the speedbrake lever or when the cabin altitude warning is no longer active.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp03",
+							"title": "Fly-by-Wire Spoilers",
+							"type": "canvas",
+							"location": "05/dif05fbp03.xml",
+							"graphicsLocation": "dif05fbp03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp04.mp3",
+									"audioText": "On the MAX, the fly-by-wire spoilers are controlled by the Spoiler Control Electronics Unit, or SCE unit. The SCE unit translates signals from the Speedbrake lever position sensor, the First Officer’s control wheel position sensors, and other airplane air data input to electrically control each flight spoiler hydraulic Power Control Units (PCUs) to achieve the desired roll and/or drag.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp04",
+							"title": "Spoiler Control Electronics (SCE) Unit",
+							"type": "canvas",
+							"location": "05/dif05fbp04.xml",
+							"graphicsLocation": "dif05fbp04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp05.mp3",
+									"audioText": "The hydraulic pressure to the MAX ground spoiler Power Control Units is controlled by the Ground Spoiler Control Module (GSCM).",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05fbp05a.mp3",
+									"audioText": "The GSCM is commanded by logic in the Spoiler Control Electronics Unit which uses air and ground data and electrically sensed Speedbrake lever position. When airborne, the GSCM commands the ground spoilers to the retract position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp05",
+							"title": "Ground Spoiler Control Module (GSCM)",
+							"type": "canvas",
+							"location": "05/dif05fbp05.xml",
+							"graphicsLocation": "dif05fbp05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp06.mp3",
+									"audioText": "The first fly-by-wire system we will discuss is Maneuver Load Alleviation (MLA). MLA is similar to the Load Alleviation System found on some 737NG models. If the speedbrakes are extended at higher gross weights, the MLA decreases structural loads by partially retracting the speedbrakes as needed.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05fbp06a.mp3",
+									"audioText": "The MLA is commanded through the Spoiler Control Electronics Unit, and will function when the airplane is experiencing a load factor greater than 1.3 g’s, or less than 0.3 g’s. When MLA is activated, the Speedbrake lever will not move in response to MLA spoiler inputs. When MLA is no longer needed, the speedbrakes will automatically return to the position commanded by the Speedbrake lever. The MLA system is transparent to the flight crew.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp06",
+							"title": "Maneuver Load Alleviation (MLA)",
+							"type": "canvas",
+							"location": "05/dif05fbp06.xml",
+							"graphicsLocation": "dif05fbp06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp07.mp3",
+									"audioText": "The Landing Attitude Modifier system (LAM) performs two functions. First, the LAM function applies when the flaps are in the 30 or 40 position. The LAM symmetrically deploys flight spoilers on approach to increase the pitch angle in order to maintain nose landing gear contact margins equivalent to the 737NG. The amount of spoiler deflection is based on the approach speed.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05fbp07a.mp3",
+									"audioText": "Spoiler deflection begins at approximately 10 knots above VREF with maximum LAM deflection occurring at 20 knots above VREF. The second LAM function deploys flight spoilers symmetrically when the flaps are in the 15 through 30 position and the thrust levers are near idle. This generates additional drag to allow the MAX to both capture and maintain a glidepath like the 737NG. The Speedbrake lever does not move during LAM operation and some buffet can occur.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp07",
+							"title": "Landing Attitude Modifier (LAM)",
+							"type": "canvas",
+							"location": "05/dif05fbp07.xml",
+							"graphicsLocation": "dif05fbp07.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05fbp08.mp3",
+									"audioText": "To increase the aircraft’s descent rate during a high altitude loss of pressurization event, the 737 MAX has an Emergency Descent Speedbrakes (EDS) system. The system is armed when the airplane is above 30,000 feet and the cabin altitude warning is active. The EDS system increases the descent rate by raising the speedbrakes to a higher than normal position when the crew moves the Speedbrake lever to the flight detent as part of the Emergency Descent procedure.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05fbp08a.mp3",
+									"audioText": "EDS operation is transparent to the flight crew.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05fbp08b.mp3",
+									"audioText": "EDS is deactivated when the flight crew stows the Speedbrake lever, or when the cabin altitude warning is no longer active.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05fbp08",
+							"title": "Emergency Descent Speedbrakes (EDS)",
+							"type": "canvas",
+							"location": "05/dif05fbp08.xml",
+							"graphicsLocation": "dif05fbp08.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t02.xml",
+							"graphicsLocation": "dif05t02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05p02.mp3",
+									"audioText": "Let’s take a closer look at the 737 MAX flight control indicators and see what’s changed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05p02",
+							"title": "Flight Control Panel",
+							"type": "canvas",
+							"location": "05/dif05p02.xml",
+							"graphicsLocation": "dif05p02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05p03.mp3",
+									"audioText": "The SPEED TRIM FAIL light on the 737 MAX is similar in function to the 737NG. Illumination of the SPEED TRIM FAIL light on the 737NG indicates: Failure of the Speed Trim function in the Speed Trim System.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05p03a.mp3",
+									"audioText": "Illumination of the SPEED TRIM FAIL light on the 737 MAX indicates: Failure of the Speed Trim function in the Speed Trim System OR Failure of the MCAS function in the Speed Trim System.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05p03b.mp3",
+									"audioText": "If one function fails, both functions (the Speed Trim function and MCAS function) are inoperative for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif05p03c.mp3",
+									"audioText": "On the 737 MAX, if the left and right angle of attack (AOA) sensors disagree by 5.5 degrees or more with the Flaps UP, or if the maximum command limit is reached, the amber SPEED TRIM FAIL light illuminates and the Speed Trim System is inoperative for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s5",
+									"audioLocation": "dif05p03d.mp3",
+									"audioText": "Refer to the SPEED TRIM FAIL Non-Normal Checklist.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05p03",
+							"title": "SPEED TRIM FAIL Light",
+							"type": "canvas",
+							"location": "05/dif05p03.xml",
+							"graphicsLocation": "dif05p03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05p04.mp3",
+									"audioText": "When illuminated, the SPOILERS light indicates one or more spoiler pairs are inoperative. A new non-normal checklist has been added to the QRH.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05p04",
+							"title": "SPOILERS Light",
+							"type": "canvas",
+							"location": "05/dif05p04.xml",
+							"graphicsLocation": "dif05p04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05p05.mp3",
+									"audioText": "Elevator Jam Landing Assist is a function of the SCE Unit which provides pilots with a means of increasing or decreasing descent rates during approach and landing through the use of flight spoilers in the event of a jammed pitch control. Located on the aft overhead panel, just above the FLIGHT CONTROL panel, you’ll find an additional flight control switch and light called the ELEVATOR JAM LANDING ASSIST switch and ASSIST ON light.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05p05a.mp3",
+									"audioText": "The light illuminates when the Elevator Jam Landing Assist system is active. To activate the system, the Elevator Jam Landing Assist switch must be selected ON, the flap position must be one or greater and the autopilot must be disengaged. Pilots will activate the system as directed by the jammed or restricted flight controls non-normal checklist.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05p05",
+							"title": "Elevator Jam Landing Assist (EJLA) - 1",
+							"type": "canvas",
+							"location": "05/dif05p05.xml",
+							"graphicsLocation": "dif05p05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05p06.mp3",
+									"audioText": "The flight spoilers extend to a neutral position when the system is activated. Sensors in the control column detect pilot inputs and the SCE unit converts these inputs into a spoiler command.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05p06",
+							"title": "Elevator Jam Landing Assist (EJLA) - 2",
+							"type": "canvas",
+							"location": "05/dif05p06.xml",
+							"graphicsLocation": "dif05p06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t03",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t03.xml",
+							"graphicsLocation": "dif05t03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp00_01.mp3",
+									"audioText": "Welcome to this differences lesson between the 737NG and 737 MAX Speed Trim System (STS). Upon completion of this course, you will be able to: identify the different functions of the Speed Trim System, understand the purpose of the Maneuvering Characteristics Augmentation System (MCAS) function and when it operates,",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp00_01a.mp3",
+									"audioText": "understand the function of the SPEED TRIM FAIL light, understand the function of the STAB TRIM cutout switches and identify how to override the Speed Trim System.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp00_01",
+							"title": "Speed Trim System Introduction - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp00_01.xml",
+							"graphicsLocation": "dif05stsp00_01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp00_02.mp3",
+									"audioText": "This CBT details operation of the Speed Trim System (STS) and includes comprehensive discussion on the Speed Trim function and Maneuvering Characteristics Augmentation System (MCAS) function.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp00_02a.mp3",
+									"audioText": "The MCAS function was implemented on the 737 MAX to comply with regulatory certification requirements for control column forces at high angles of attack.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp00_02b.mp3",
+									"audioText": "Compared to the 737NG, the 737 MAX has a larger diameter engine which is located farther forward on the wing. This contributed to minor changes in aerodynamic pitch characteristics at high angles of attack with Flaps UP. This resulted in control column forces that did not consistently increase as a function of angle of attack.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif05stsp00_02c.mp3",
+									"audioText": "The MCAS function was added to the 737 MAX which helped ensure certifiable control column forces.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s5",
+									"audioLocation": "dif05stsp00_02d.mp3",
+									"audioText": "In the event MCAS becomes inoperative, Boeing has conducted extensive flight testing to validate that the aircraft is safe and controllable in all areas of the certified flight envelope.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp00_02",
+							"title": "Speed Trim System Introduction - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp00_02.xml",
+							"graphicsLocation": "dif05stsp00_02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp01.mp3",
+									"audioText": "On the 737NG and 737 MAX, speed stability augmentation is functionally equivalent and is provided by the Speed Trim function in the Speed Trim System. On the 737 MAX, pitch stability augmentation is provided by the MCAS function in the Speed Trim System. The Speed Trim System only operates when the autopilot is not engaged.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp01",
+							"title": "Speed Trim System (STS)",
+							"type": "canvas",
+							"location": "05/dif05stsp01.xml",
+							"graphicsLocation": "dif05stsp01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp02.mp3",
+									"audioText": "Speed stability augmentation is provided by the Speed Trim function in the Speed Trim System. It is primarily designed to improve flight characteristics during operation with a low gross weight, aft center of gravity, and high thrust when the autopilot is not engaged.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp02a.mp3",
+									"audioText": "The Speed Trim function returns the airplane to a trimmed airspeed by commanding the stabilizer in a direction opposite the airspeed change. This increases control column forces to encourage return to the trimmed airspeed. As the airplane returns to its trimmed airspeed, the stabilizer trim inputs are reversed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp02",
+							"title": "Speed Trim Function - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp02.xml",
+							"graphicsLocation": "dif05stsp02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp03.mp3",
+									"audioText": "The Speed Trim function commands nose down stabilizer trim inputs to encourage return to a faster trimmed airspeed.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp03a.mp3",
+									"audioText": "and nose up stabilizer trim inputs to encourage a return to a slower trimmed airspeed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp03",
+							"title": "Speed Trim Function - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp03.xml",
+							"graphicsLocation": "dif05stsp03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp04.mp3",
+									"audioText": "In this example, the pilot reduces thrust, while maintaining level flight to demonstrate the Speed Trim function’s ability to encourage return to a faster trimmed airspeed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp04",
+							"title": "Speed Trim Function - 3",
+							"type": "canvas",
+							"location": "05/dif05stsp04.xml",
+							"graphicsLocation": "dif05stsp04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp05.mp3",
+									"audioText": "As the pilot reduces thrust, airspeed begins to decrease.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp05",
+							"title": "Speed Trim Function - 4",
+							"type": "canvas",
+							"location": "05/dif05stsp05.xml",
+							"graphicsLocation": "dif05stsp05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp06.mp3",
+									"audioText": "The pilot must apply aft control column force to maintain level flight.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp06",
+							"title": "Speed Trim Function - 5",
+							"type": "canvas",
+							"location": "05/dif05stsp06.xml",
+							"graphicsLocation": "dif05stsp06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp07.mp3",
+									"audioText": "As airspeed continues to decrease…",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp07a.mp3",
+									"audioText": "The pilot must continue to apply additional aft control column force to maintain level flight.  The increasing control column forces is a result of the airplane being out of trim.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp07",
+							"title": "Speed Trim Function - 6",
+							"type": "canvas",
+							"location": "05/dif05stsp07.xml",
+							"graphicsLocation": "dif05stsp07.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp08.mp3",
+									"audioText": "To augment the natural speed stability of the airplane as airspeed decreases below the trimmed airspeed, the Speed Trim function activates and begins to trim the stabilizer nose down.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp08",
+							"title": "Speed Trim Function - 7",
+							"type": "canvas",
+							"location": "05/dif05stsp08.xml",
+							"graphicsLocation": "dif05stsp08.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp09.mp3",
+									"audioText": "The nose down stabilizer trim commands from the Speed Trim function further increase control column forces to maintain level flight.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp09",
+							"title": "Speed Trim Function - 8",
+							"type": "canvas",
+							"location": "05/dif05stsp09.xml",
+							"graphicsLocation": "dif05stsp09.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp10.mp3",
+									"audioText": "This encourages the pilot to either reduce aft control column force, which allows the airplane to descend and re-gain airspeed or apply additional thrust so the airplane accelerates back to its trimmed airspeed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp10",
+							"title": "Speed Trim Function - 9",
+							"type": "canvas",
+							"location": "05/dif05stsp10.xml",
+							"graphicsLocation": "dif05stsp10.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp11.mp3",
+									"audioText": "As the airplane accelerates towards its trimmed airspeed, the Speed Trim function reverses previous inputs by commanding nose up stabilizer trim inputs.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp11",
+							"title": "Speed Trim Function - 10",
+							"type": "canvas",
+							"location": "05/dif05stsp11.xml",
+							"graphicsLocation": "dif05stsp11.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp12.mp3",
+									"audioText": "As the airplane returns to its trimmed airspeed, stabilizer commands provided by the Speed Trim function are reversed. In addition, control column forces return to neutral.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp12",
+							"title": "Speed Trim Function - 11",
+							"type": "canvas",
+							"location": "05/dif05stsp12.xml",
+							"graphicsLocation": "dif05stsp12.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp13.mp3",
+									"audioText": "Conditions for operation of the Speed Trim function include: up to Mach 0.68, 10 seconds after takeoff, 5 seconds following release of main electric stabilizer trim switches, autopilot not engaged, and sensing of trim requirement.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp13",
+							"title": "Conditions for Operation",
+							"type": "canvas",
+							"location": "05/dif05stsp13.xml",
+							"graphicsLocation": "dif05stsp13.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp14.mp3",
+									"audioText": "The videos on the following pages demonstrate the Speed Trim function with the flaps extended and with Flaps UP. When the flaps are extended, the Speed Trim function controls the stabilizer trim motor at a high rate. When the flaps are UP, the Speed Trim function controls the stabilizer trim motor at a low rate. Note that the Speed Trim function only operates when the autopilot is not engaged. The behavior of the Speed Trim function demonstrated in the following videos is functionally equivalent between the 737NG and 737 MAX.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp14",
+							"title": "Speed Trim Function Demonstration - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp14.xml",
+							"graphicsLocation": "dif05stsp14.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp15.mp3",
+									"audioText": "During this demonstration, observe operation of the Speed Trim function with the flaps extended.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp15a.mp3",
+									"audioText": "In this case, you’ll observe the Speed Trim function commanding stabilizer nose down trim because the airplane is operating at a lower airspeed than the in-trim airspeed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp15",
+							"title": "Speed Trim Function Demonstration - Flaps Extended",
+							"type": "canvas",
+							"location": "05/dif05stsp15.xml",
+							"graphicsLocation": "dif05stsp15.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp16.mp3",
+									"audioText": "During this demonstration, observe operation of the Speed Trim function at Flaps UP. In this case, you’ll observe the Speed Trim function commanding stabilizer nose up trim because the airplane is operating at a higher airspeed than the in-trim airspeed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp16",
+							"title": "Speed Trim Function Demonstration - Flaps UP",
+							"type": "canvas",
+							"location": "05/dif05stsp16.xml",
+							"graphicsLocation": "dif05stsp16.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp17.mp3",
+									"audioText": "The video on the next page demonstrates the Speed Trim function during an approach to stall. In this scenario, the flaps are extended causing the Speed Trim function to control the stabilizer trim motor at a high rate.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp17a.mp3",
+									"audioText": "As the airplane accelerates back to its trimmed airspeed, the stabilizer trim inputs are reversed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp17",
+							"title": "Approach to Stall Demonstration - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp17.xml",
+							"graphicsLocation": "dif05stsp17.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "Notice Speed Trim function nose down trim.",
+									"completion": "vision",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "Notice reversal of nose down trim.",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp18",
+							"title": "Approach to Stall Demonstration - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp18.xml",
+							"graphicsLocation": "dif05stsp18.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp19.mp3",
+									"audioText": "On both the 737NG and 737 MAX, the Speed Trim function contains a High AOA mode that is used to provide increased stabilizer commands at elevated angle of attack (AOA).",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp19",
+							"title": "High AOA Mode - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp19.xml",
+							"graphicsLocation": "dif05stsp19.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp20.mp3",
+									"audioText": "As AOA increases toward stick shaker the Speed Trim function transitions to High AOA mode to command additional nose down stabilizer to increase control column forces.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp20",
+							"title": "High AOA Mode - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp20.xml",
+							"graphicsLocation": "dif05stsp20.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp21.mp3",
+									"audioText": "AOA is used only to transition into and out of the High AOA mode and is not used to determine the amount of stabilizer commanded.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp21",
+							"title": "High AOA Mode - 3",
+							"type": "canvas",
+							"location": "05/dif05stsp21.xml",
+							"graphicsLocation": "dif05stsp21.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp22.mp3",
+									"audioText": "On the 737 MAX, pitch stability augmentation is provided by the Maneuvering Characteristics Augmentation System (MCAS) function in the Speed Trim System. It is designed to operate at elevated angles of attack (AOAs) when the autopilot is not engaged and the flaps are UP.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp22a.mp3",
+									"audioText": "The purpose of the MCAS function is to increase control column forces by commanding the stabilizer in the nose down direction at elevated AOAs.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp22",
+							"title": "MCAS Function - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp22.xml",
+							"graphicsLocation": "dif05stsp22.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp23.mp3",
+									"audioText": "The MCAS function becomes active when the airplane exceeds a threshold AOA when the autopilot is not engaged and the flaps are UP.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp23",
+							"title": "MCAS Function - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp23.xml",
+							"graphicsLocation": "dif05stsp23.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp24.mp3",
+									"audioText": "Stabilizer trim inputs in the nose down direction are added incrementally if AOA continues to increase past the threshold AOA.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp24",
+							"title": "MCAS Function - 3",
+							"type": "canvas",
+							"location": "05/dif05stsp24.xml",
+							"graphicsLocation": "dif05stsp24.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp25.mp3",
+									"audioText": "As AOA is reduced below threshold AOA, the commanded nose down stabilizer trim is reversed by the MCAS function, providing nose up trim inputs.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp25",
+							"title": "MCAS Function - 4",
+							"type": "canvas",
+							"location": "05/dif05stsp25.xml",
+							"graphicsLocation": "dif05stsp25.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp26.mp3",
+									"audioText": "If AOA is again increased above threshold AOA, the MCAS function becomes active and commands stabilizer trim inputs in the nose down direction.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp26",
+							"title": "MCAS Function - 5",
+							"type": "canvas",
+							"location": "05/dif05stsp26.xml",
+							"graphicsLocation": "dif05stsp26.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp27.mp3",
+									"audioText": "Stabilizer trim commands are based on AOA and Mach number.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp27",
+							"title": "MCAS Function - 6",
+							"type": "canvas",
+							"location": "05/dif05stsp27.xml",
+							"graphicsLocation": "dif05stsp27.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp28.mp3",
+									"audioText": "Conditions for operation of the MCAS function include: Autopilot not engaged, Flaps UP, AOA above threshold, up to Mach 0.84, and 10 seconds after takeoff.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp28",
+							"title": "MCAS Function - Conditions for Operation",
+							"type": "canvas",
+							"location": "05/dif05stsp28.xml",
+							"graphicsLocation": "dif05stsp28.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp29.mp3",
+									"audioText": "Recall that High AOA mode is a Speed Trim function capability on the 737NG and 737 MAX.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp29a.mp3",
+									"audioText": "On the 737NG, High AOA mode is available in all flap configurations.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp29b.mp3",
+									"audioText": "On the 737 MAX, High AOA mode is available in all flap configurations, but is primarily used with the flaps extended.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif05stsp29c.mp3",
+									"audioText": "When the flaps are UP on the 737 MAX, the MCAS function takes priority over High AOA mode of the Speed Trim function.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp29",
+							"title": "High AOA Mode - 4",
+							"type": "canvas",
+							"location": "05/dif05stsp29.xml",
+							"graphicsLocation": "dif05stsp29.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp30.mp3",
+									"audioText": "The Flight Control Computer (FCC) features three primary MCAS logic enhancements with FCC P12.1.2 or newer software: AOA Comparison, Maximum Command Limit, Single MCAS Activation. These enhancements provide functionality to prevent erroneous MCAS function activation and ensure the elevator provides sufficient pitch maneuvering capability to counteract nose down stabilizer commanded by the MCAS function.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp30",
+							"title": "MCAS Function Logic",
+							"type": "canvas",
+							"location": "05/dif05stsp30.xml",
+							"graphicsLocation": "dif05stsp30.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp31.mp3",
+									"audioText": "The FCC uses a corrected AOA value to activate the MCAS function. This logic uses both AOA vanes and filters out small differences between the vanes and provides a single corrected value to the Speed Trim System. This provides additional signal processing to protect against an erroneous AOA.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp31a.mp3",
+									"audioText": "On the 737 MAX, if the left and right angle of attack (AOA) sensors disagree by 5.5 degrees or more with the Flaps UP: The amber SPEED TRIM FAIL light illuminates and the Speed Trim System (which includes the Speed Trim function and MCAS function) is inoperative for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp31",
+							"title": "MCAS Function Logic -  AOA Comparison",
+							"type": "canvas",
+							"location": "05/dif05stsp31.xml",
+							"graphicsLocation": "dif05stsp31.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp32.mp3",
+									"audioText": "The MCAS function also contains logic to limit the amount of nose down stabilizer trim movement in order to preserve elevator authority for pitch control. This ensures the elevator always provides sufficient pitch maneuvering capability.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp32",
+							"title": "MCAS Function Logic -  Max Command Limit - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp32.xml",
+							"graphicsLocation": "dif05stsp32.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp33.mp3",
+									"audioText": "When the MCAS function activates, this logic records a snapshot of the stabilizer trim position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp33",
+							"title": "MCAS Function Logic -  Max Command Limit - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp33.xml",
+							"graphicsLocation": "dif05stsp33.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp34.mp3",
+									"audioText": "A stabilizer trim nose down limit is then established from this snapshot position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp34",
+							"title": "MCAS Function Logic -  Max Command Limit - 3",
+							"type": "canvas",
+							"location": "05/dif05stsp34.xml",
+							"graphicsLocation": "dif05stsp34.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp35.mp3",
+									"audioText": "In order for the command limit logic to inhibit the Speed Trim System, the stabilizer trim nose down Maximum Command Limit needs to be reached: within five minutes following MCAS activation, or before the autopilot has been engaged for one continuous minute following MCAS activation, whichever comes first.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp35a.mp3",
+									"audioText": "If either of these criteria is met, and the Maximum Command Limit is reached, The SPEED TRIM FAIL light illuminates and the Speed Trim System is inoperative for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp35b.mp3",
+									"audioText": "After five minutes, or after the autopilot has been engaged for one continuous minute, whichever occurs first, the Maximum Command Limit logic is reset.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp35",
+							"title": "MCAS Function Logic -  Max Command Limit - 4",
+							"type": "canvas",
+							"location": "05/dif05stsp35.xml",
+							"graphicsLocation": "dif05stsp35.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp36.mp3",
+									"audioText": "The nose down limit can be reached by any nose down stabilizer trim movement, i.e., manual trim, main electric stabilizer trim, autopilot trim, Speed Trim function or MCAS function.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp36",
+							"title": "MCAS Function Logic -  Max Command Limit - 5",
+							"type": "canvas",
+							"location": "05/dif05stsp36.xml",
+							"graphicsLocation": "dif05stsp36.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp37.mp3",
+									"audioText": "Lastly, MCAS function logic ensures that the MCAS function will only activate once per elevated AOA event.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp37a.mp3",
+									"audioText": "This means that each time the airplane exceeds threshold AOA, the maximum amount of commanded nose down stabilizer trim will be 2.5 units at low Mach or 0.65 units at high Mach.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp37b.mp3",
+									"audioText": "As AOA increases above threshold AOA, nose down stabilizer can be incrementally added until the AOA is reduced below threshold AOA.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif05stsp37c.mp3",
+									"audioText": "Although nose down stabilizer trim can be commanded incrementally, the sum of all increments will not exceed the maximum amount stated above.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp37",
+							"title": "MCAS Function Logic -  Single MCAS Activation - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp37.xml",
+							"graphicsLocation": "dif05stsp37.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp38.mp3",
+									"audioText": "The AOA must transition from below threshold AOA to above threshold AOA after transitioning from flaps extended to Flaps UP in order to activate. This prevents two AOA vanes that are erroneously high from leading to MCAS function activation.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp38",
+							"title": "MCAS Function Logic -  Single MCAS Activation - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp38.xml",
+							"graphicsLocation": "dif05stsp38.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp39.mp3",
+									"audioText": "The video on the next page demonstrates the MCAS function on the 737 MAX during an approach to stall. The MCAS function becomes active when the airplane exceeds a threshold AOA with the Flaps UP and controls the stabilizer trim motor at a high rate.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp39a.mp3",
+									"audioText": "As AOA is reduced below threshold AOA, the stabilizer trim inputs are reversed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp39",
+							"title": "MCAS Function - Approach to Stall Demonstration - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp39.xml",
+							"graphicsLocation": "dif05stsp39.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "Notice Speed Trim function nose down trim.",
+									"completion": "vision",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "Notice MCAS function nose down trim.",
+									"completion": "vision",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioText": "Notice MCAS function nose up trim.",
+									"completion": "vision",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioText": "Notice Speed Trim function nose up trim.",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp40",
+							"title": "MCAS Function - Approach to Stall Demonstration - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp40.xml",
+							"graphicsLocation": "dif05stsp40.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp41.mp3",
+									"audioText": "The tables below provide a list of Speed Trim System functions available in various flight conditions during manual flight.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp41",
+							"title": "Function Review",
+							"type": "canvas",
+							"location": "05/dif05stsp41.xml",
+							"graphicsLocation": "dif05stsp41.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp42.mp3",
+									"audioText": "The SPEED TRIM FAIL light on the 737 MAX is similar in function to the 737NG. Illumination of the SPEED TRIM FAIL light on the 737NG indicates: Failure of the Speed Trim function in the Speed Trim System.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp42a.mp3",
+									"audioText": "Illumination of the SPEED TRIM FAIL light on the 737 MAX indicates: Failure of the Speed Trim function in the Speed Trim System OR Failure of the MCAS function in the Speed Trim System.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp42b.mp3",
+									"audioText": "If one function fails, both functions (the Speed Trim function and MCAS function) are inoperative for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif05stsp42c.mp3",
+									"audioText": "On the 737 MAX, if the left and right angle of attack (AOA) sensors disagree by 5.5 degrees or more with the Flaps UP, or if the maximum command limit is reached, the amber SPEED TRIM FAIL light illuminates and the Speed Trim System is inoperative for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s5",
+									"audioLocation": "dif05stsp42d.mp3",
+									"audioText": "Refer to the SPEED TRIM FAIL Non-Normal Checklist.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp42",
+							"title": "SPEED TRIM FAIL Light",
+							"type": "canvas",
+							"location": "05/dif05stsp42.xml",
+							"graphicsLocation": "dif05stsp42.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp43.mp3",
+									"audioText": "The STAB TRIM cutout switches have changed between the 737NG and 737 MAX.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp43a.mp3",
+									"audioText": "The 737NG features STAB TRIM MAIN ELECT and STAB TRIM AUTOPILOT cutout switches. The 737 MAX features STAB TRIM PRI and STAB TRIM B/U cutout switches.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp43b.mp3",
+									"audioText": "On the 737NG and 737 MAX, all steps in Non-Normal Checklists that direct the flight crew to place the STAB TRIM cutout switches to CUTOUT remain the same. Both switches are always placed in the CUTOUT position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp43",
+							"title": "STAB TRIM Cutout Switches - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp43.xml",
+							"graphicsLocation": "dif05stsp43.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp44.mp3",
+									"audioText": "On the 737NG and 737 MAX, the main electric stabilizer trim switches on the control wheel can be used to override Speed Trim System trim inputs.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp44",
+							"title": "Main Electric Stabilizer Trim Switches",
+							"type": "canvas",
+							"location": "05/dif05stsp44.xml",
+							"graphicsLocation": "dif05stsp44.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp45.mp3",
+									"audioText": "Additionally, the 737NG and 737 MAX have micro-switches at the base of the control column. These micro-switches are known as the control column actuated stabilizer trim cutout switches. They are designed to stop operation of the main electric, autopilot, and Speed Trim function when the control column movement opposes trim direction.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp45",
+							"title": "Control Column Cutout - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp45.xml",
+							"graphicsLocation": "dif05stsp45.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp46.mp3",
+									"audioText": "In addition to the control column actuated stabilizer trim cutout switches on the 737NG and 737 MAX, the 737 MAX also features a software column cutout function for redundancy in case of a failure of the control column actuated stabilizer trim cutout switches.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp46a.mp3",
+									"audioText": "The software column cutout function stops operation of autopilot trim and the Speed Trim function when control column movement opposes trim direction.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05stsp46b.mp3",
+									"audioText": "Main electric stabilizer trim commands are not inhibited by the software column cutout function.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp46",
+							"title": "Software Column Cutout Function",
+							"type": "canvas",
+							"location": "05/dif05stsp46.xml",
+							"graphicsLocation": "dif05stsp46.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp47.mp3",
+									"audioText": "For both the control column actuated stabilizer trim cutout switches and the software column cutout function on the 737 MAX: Aft control column movement does not stop MCAS nose down trim commands. Forward control column movement interrupts MCAS nose up trim commands.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp47",
+							"title": "Control Column Cutout - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp47.xml",
+							"graphicsLocation": "dif05stsp47.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp48.mp3",
+									"audioText": "On the 737 MAX, the STAB TRIM PRI and B/U cutout switches stop stabilizer trim inputs from main electric, autopilot, and the Speed Trim System (which includes the Speed Trim function and MCAS function) when either switch is placed in the CUTOUT position.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp48a.mp3",
+									"audioText": "On the 737NG and 737 MAX, all steps in Non-Normal Checklists that direct the flight crew to place the STAB TRIM cutout switches to CUTOUT remain the same. Both switches are always placed in the CUTOUT position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp48",
+							"title": "STAB TRIM Cutout Switches - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp48.xml",
+							"graphicsLocation": "dif05stsp48.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp49.mp3",
+									"audioText": "On the 737NG and 737 MAX, grasping the stabilizer trim wheel will stop stabilizer motion while the trim wheel is being held.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp49",
+							"title": "Stabilizer Trim Wheel - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp49.xml",
+							"graphicsLocation": "dif05stsp49.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp50.mp3",
+									"audioText": "After the STAB TRIM cutout switches are moved to CUTOUT, manual stabilizer trim should be used as needed to keep the airplane in-trim.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp50a.mp3",
+									"audioText": "A two-pilot effort may be needed to correct an out of trim condition.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp50",
+							"title": "Stabilizer Trim Wheel - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp50.xml",
+							"graphicsLocation": "dif05stsp50.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp51.mp3",
+									"audioText": "On the 737 MAX a cross FCC trim monitor provides additional protection against a runaway stabilizer caused by erroneous FCC trim commands.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp51a.mp3",
+									"audioText": "The FCCs continuously monitor each other’s trim commands, except during a dual channel approach where existing monitors are in place.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp51",
+							"title": "Cross FCC Trim Monitor - 1",
+							"type": "canvas",
+							"location": "05/dif05stsp51.xml",
+							"graphicsLocation": "dif05stsp51.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp52.mp3",
+									"audioText": "If the cross FCC trim monitor detects erroneous trim commands, further trim commands from the erroneous FCC will be inhibited and the other FCC will provide stabilizer trim commands for the remainder of the flight.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stsp52a.mp3",
+									"audioText": "In the event the cross FCC trim monitor detects erroneous trim commands, the SPEED TRIM FAIL light can illuminate automatically or during MASTER CAUTION light recall.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp52",
+							"title": "Cross FCC Trim Monitor - 2",
+							"type": "canvas",
+							"location": "05/dif05stsp52.xml",
+							"graphicsLocation": "dif05stsp52.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stsp52_01.mp3",
+									"audioText": "If the Cross FCC Trim Monitor has activated in flight, when on the ground and the ground speed is below 30 knots, the STAB OUT OF TRIM light will illuminate to indicate a partial failure of the FCC. Refer to the STABILIZER OUT OF TRIM non-normal checklist, which will instruct the flight crew not to takeoff.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stsp52_01",
+							"title": "Cross FCC Trim Monitor - 3",
+							"type": "canvas",
+							"location": "05/dif05stsp52_01.xml",
+							"graphicsLocation": "dif05stsp52_01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t04",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t04.xml",
+							"graphicsLocation": "dif05t04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05stbp01.mp3",
+									"audioText": "The STAB TRIM cutout switches have changed between the 737NG and 737 MAX. The 737NG features STAB TRIM MAIN ELECT and STAB TRIM AUTOPILOT cutout switches. The 737 MAX features STAB TRIM PRI and STAB TRIM B/U cutout switches.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05stbp01a.mp3",
+									"audioText": "On the 737NG and 737 MAX, all steps in Non-Normal Checklists that direct the flight crew to place the STAB TRIM cutout switches to CUTOUT remain the same. Both switches are always placed in the CUTOUT position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05stbp01",
+							"title": "STAB TRIM Cutout Switches",
+							"type": "canvas",
+							"location": "05/dif05stbp01.xml",
+							"graphicsLocation": "dif05stbp01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t05",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t05.xml",
+							"graphicsLocation": "dif05t05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05sbp02.mp3",
+									"audioText": "Speedbrake Lights and Logic, select NEXT and let’s take a closer look.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05sbp02",
+							"title": "Speedbrake Lights and Logic",
+							"type": "canvas",
+							"location": "05/dif05sbp02.xml",
+							"graphicsLocation": "dif05sbp02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05sbp03.mp3",
+									"audioText": "The SPEED BRAKE DO NOT ARM, SPEED BRAKE ARMED, and SPEED BRAKE EXTENDED lights have been relocated. These lights are now located above the Inboard Display Units. In the MAX, these lights are driven by the SCE unit.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05sbp03",
+							"title": "SPEEDBRAKES EXTENDED Light Logic - 1",
+							"type": "canvas",
+							"location": "05/dif05sbp03.xml",
+							"graphicsLocation": "dif05sbp03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05sbp04.mp3",
+									"audioText": "As on the NG, the SPEED BRAKE EXTENDED light will illuminate in flight when the Speedbrake lever is beyond the ARMED position and either of the following are true: the flaps are extended more than 10 degrees, or the radio altitude is less than 800 feet. New logic has been added to the MAX to include either of these two conditions as well: Thrust levers are at approximately Go-around thrust for 3 seconds, or, above Idle thrust for 15 seconds.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05sbp04",
+							"title": "SPEEDBRAKES EXTENDED Light Logic - 2",
+							"type": "canvas",
+							"location": "05/dif05sbp04.xml",
+							"graphicsLocation": "dif05sbp04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05sbp05",
+							"title": "SPEED BRAKE DO NOT ARM Light ",
+							"type": "canvas",
+							"location": "05/dif05sbp05.xml",
+							"graphicsLocation": "dif05sbp05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05sbp06.mp3",
+									"audioText": "One additional speedbrake logic change on the MAX: In flight, if the flight crew inadvertently moves the Speedbrake lever beyond the FLIGHT DETENT, the SCE unit prevents spoiler extension beyond the inflight position.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05sbp06",
+							"title": "Speedbrake",
+							"type": "canvas",
+							"location": "05/dif05sbp06.xml",
+							"graphicsLocation": "dif05sbp06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t06",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t06.xml",
+							"graphicsLocation": "dif05t06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp01.mp3",
+									"audioText": "During normal flight conditions, the stabilizer is positioned by an electric trim motor controlled by the electric stabilizer trim switches on the control wheel, by the Speed Trim System, or by autopilot trim.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05trimp01a.mp3",
+									"audioText": "During some non-normal flight conditions such as during a runaway stabilizer or when the stabilizer trim is inoperative, it may become necessary to manually trim the stabilizer to keep the airplane in trim.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp01",
+							"title": "Manual Trim Control",
+							"type": "canvas",
+							"location": "05/dif05trimp01.xml",
+							"graphicsLocation": "dif05trimp01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp02.mp3",
+									"audioText": "The stabilizer can be manually trimmed by the Captain, First Officer, or by both pilots simultaneously using the handles located on the stabilizer trim wheel.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp02",
+							"title": "Manual Stabilizer Trim - 1",
+							"type": "canvas",
+							"location": "05/dif05trimp02.xml",
+							"graphicsLocation": "dif05trimp02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp03.mp3",
+									"audioText": "If manual stabilizer trim is necessary, ensure both STAB TRIM cutout switches are in CUTOUT prior to extending the manual trim wheel handles. Consider stowing the inboard armrests and keeping the manual trim wheel handles extended.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp03",
+							"title": "Manual Stabilizer Trim - 2",
+							"type": "canvas",
+							"location": "05/dif05trimp03.xml",
+							"graphicsLocation": "dif05trimp03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp04.mp3",
+									"audioText": "A two-pilot effort may be used to correct an out of trim condition and will not cause a cable of system failure. Reducing airloads on the stabilizer reduces the effort needed to manually trim.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05trimp04a.mp3",
+									"audioText": "Reducing airspeed reduces airloads on the stabilizer. Depending on the out of trim condition and force required to move the stabilizer trim wheel, flight crew coordination is important.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05trimp04b.mp3",
+									"audioText": "There are several techniques available for manually trimming. The two handles on the stabilizer trim wheels are offset by 90 degrees to allow both pilots to apply more force during manual trimming.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp04",
+							"title": "Manual Stabilizer Trim - 3",
+							"type": "canvas",
+							"location": "05/dif05trimp04.xml",
+							"graphicsLocation": "dif05trimp04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp05.mp3",
+									"audioText": "The video on this page demonstrates manual stabilizer trim operations by the Captain. One stabilizer trim unit requires approximately 15 turns of the stabilizer trim wheel.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05trimp05a.mp3",
+									"audioText": "If manual stabilizer trim is necessary, ensure both STAB TRIM cutout switches are in CUTOUT prior to extending the manual trim wheel handles.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp05",
+							"title": "Manual Stabilizer Trim Demo",
+							"type": "canvas",
+							"location": "05/dif05trimp05.xml",
+							"graphicsLocation": "dif05trimp05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp06.mp3",
+									"audioText": "When manually trimming the airplane, good crew coordination is essential. If starting from an in-trim condition and manual trim becomes necessary, the pilot flying can make the necessary trim adjustments or delegate the task to the pilot monitoring.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05trimp06a.mp3",
+									"audioText": "On the following slides, several manual trim techniques will be discussed. Depending on the out of trim condition and the force required to move the stabilizer trim wheel, the flight crew should coordinate which technique would provide the most effective solution.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp06",
+							"title": "Manual Stabilizer Trim Techniques - 1",
+							"type": "canvas",
+							"location": "05/dif05trimp06.xml",
+							"graphicsLocation": "dif05trimp06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp07.mp3",
+									"audioText": "In this example, the pilot flying holds the control column firmly with one hand and manually trims the airplane with the other hand.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp07",
+							"title": "Manual Stabilizer Trim Techniques - 2",
+							"type": "canvas",
+							"location": "05/dif05trimp07.xml",
+							"graphicsLocation": "dif05trimp07.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp08.mp3",
+									"audioText": "In this example, the pilot monitoring manually trims the airplane with one hand at the direction of the pilot flying.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp08",
+							"title": "Manual Stabilizer Trim Techniques - 3",
+							"type": "canvas",
+							"location": "05/dif05trimp08.xml",
+							"graphicsLocation": "dif05trimp08.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp09.mp3",
+									"audioText": "In this example, the pilot flying holds the control column firmly with one hand and manually trims the airplane with the other hand.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05trimp09a.mp3",
+									"audioText": "The pilot monitoring assists the pilot flying by manually trimming with one hand.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp09",
+							"title": "Manual Stabilizer Trim Techniques - 4",
+							"type": "canvas",
+							"location": "05/dif05trimp09.xml",
+							"graphicsLocation": "dif05trimp09.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp10.mp3",
+									"audioText": "In this example, the pilot monitoring manually trims the airplane with both hands at the direction of the pilot flying.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp10",
+							"title": "Manual Stabilizer Trim Techniques - 5",
+							"type": "canvas",
+							"location": "05/dif05trimp10.xml",
+							"graphicsLocation": "dif05trimp10.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp11.mp3",
+									"audioText": "In this example, the pilot flying holds the control column firmly with one hand and manually trims the airplane with the other hand.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05trimp11a.mp3",
+									"audioText": "The pilot monitoring assists the pilot flying by manually trimming with both hands.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp11",
+							"title": "Manual Stabilizer Trim Techniques - 6",
+							"type": "canvas",
+							"location": "05/dif05trimp11.xml",
+							"graphicsLocation": "dif05trimp11.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05trimp12.mp3",
+									"audioText": "In this example, the pilot monitoring manually trims the airplane with one hand on each manual trim wheel handle at the direction of the pilot flying.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05trimp12",
+							"title": "Manual Stabilizer Trim Techniques - 7",
+							"type": "canvas",
+							"location": "05/dif05trimp12.xml",
+							"graphicsLocation": "dif05trimp12.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t07",
+							"title": "AFDS",
+							"type": "canvas",
+							"location": "05/dif05t07.xml",
+							"graphicsLocation": "dif05t07.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05afdp01.mp3",
+									"audioText": "Several enhancements have been made to the AFDS on the 737 MAX.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05afdp01a.mp3",
+									"audioText": "These changes include: Automatic disengagement of the autopilot following stick shaker activation, temporary removal of flight director bars and AFDS pitch mode transition following stick shaker activation and inhibit of autopilot nose up trim when airspeed is within the minimum maneuver speed (amber bar).",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05afdp01",
+							"title": "Overview",
+							"type": "canvas",
+							"location": "05/dif05afdp01.xml",
+							"graphicsLocation": "dif05afdp01.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05afdp02.mp3",
+									"audioText": "On the 737 MAX, if the autopilot is engaged, it will automatically disengage 1 second after stick shaker activation in AFDS pitch modes that do not have minimum speed reversion. These pitch modes are discussed later within this lesson.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05afdp02a.mp3",
+									"audioText": "Under these pitch modes, the autopilot cannot be re-engaged until airspeed is increased above the amber bar.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05afdp02b.mp3",
+									"audioText": "The video on this slide demonstrates the automatic disengagement feature of the autopilot.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05afdp02",
+							"title": "Automatic Disengagement of Autopilot",
+							"type": "canvas",
+							"location": "05/dif05afdp02.xml",
+							"graphicsLocation": "dif05afdp02.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05afdp03.mp3",
+									"audioText": "At the same time the autopilot automatically disengages following stick shaker activation, the flight director is also temporarily removed from the PFD.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05afdp03a.mp3",
+									"audioText": "Flight director pitch and roll guidance returns when airspeed is increased above the amber bar.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05afdp03b.mp3",
+									"audioText": "This video demonstrates the removal and return of the flight director following automatic disengagement of the autopilot.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05afdp03",
+							"title": "Flight Director Removal",
+							"type": "canvas",
+							"location": "05/dif05afdp03.xml",
+							"graphicsLocation": "dif05afdp03.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05afdp04.mp3",
+									"audioText": "After airspeed is increased above the amber bar, the pitch mode can transition to a different mode than what was originally selected. The roll mode remains unchanged.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05afdp04a.mp3",
+									"audioText": "In this video, observe that VNAV PTH transitions to MCP SPD as the flight director returns.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05afdp04",
+							"title": "AFDS Pitch Mode Transition",
+							"type": "canvas",
+							"location": "05/dif05afdp04.xml",
+							"graphicsLocation": "dif05afdp04.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05afdp05.mp3",
+									"audioText": "The table below details the pitch modes that do not have minimum speed reversion.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif05afdp05a.mp3",
+									"audioText": "In these modes, the autopilot automatically disengages and the flight directors are temporarily removed 1 second following stick shaker activation. When airspeed is increased above the amber bar, flight director guidance returns, and in some cases, the pitch mode transitions to another mode. After recovery, ensure that the desired airspeed is set in the MCP speed window.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif05afdp05b.mp3",
+									"audioText": "Note that the autopilot does not automatically disengage following stick shaker activation in other modes.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05afdp05",
+							"title": "AFDS Pitch Mode Transition Table",
+							"type": "canvas",
+							"location": "05/dif05afdp05.xml",
+							"graphicsLocation": "dif05afdp05.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif05afdp06.mp3",
+									"audioText": "On the 737 MAX, FCC logic inhibits autopilot nose up stabilizer trim commands when: The trailing edge flaps are extended and airspeed is 3 knots or more into the amber bar.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05afdp06",
+							"title": "Autopilot Nose Up Stabilizer Trim Inhibit",
+							"type": "canvas",
+							"location": "05/dif05afdp06.xml",
+							"graphicsLocation": "dif05afdp06.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif05t08",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "05/dif05t08.xml",
+							"graphicsLocation": "dif05t08.html",
+							"data": false,
+							"parentId": "05",
+							"folderPath": "content/dif/05/"
+						}
+					],
+					"id": "05",
+					"title": "Flight Deck - Flight Controls",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "06/dif06t01.xml",
+							"graphicsLocation": "dif06t01.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06p01.mp3",
+									"audioText": "The 737-MAX Display System has four large format display units, two inboard and two outboard. Select each icon to learn more.",
+									"completion": "both",
+									"advance": "wait"
+								}
+							],
+							"id": "dif06p01",
+							"title": "Glareshield",
+							"type": "canvas",
+							"location": "06/dif06p01.xml",
+							"graphicsLocation": "dif06p01.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp01.mp3",
+									"audioText": "The outboard display unit contains the Primary Flight Display PFD on the inboard side, and a new auxiliary area outboard. Notice that the PFD has an expanded sky/ground display. The groundspeed is now shown in the upper left corner of the compass rose area and will no longer be timeshared with the mach readout. The MAX and NG PFD and Navigation displays function the same. Let’s take a closer look at the elements of the Auxiliary area.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp01",
+							"title": "Outboard Displays / Display Failures",
+							"type": "canvas",
+							"location": "06/dif06obp01.xml",
+							"graphicsLocation": "dif06obp01.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp02.mp3",
+									"audioText": "The AUX area contains flight information for pilot reference, which includes essential data as well as an area reserved for operator customization, such as CPDLC and ATIS display. This is also where the Cat 3 placard can be found in the MAX. Since the 737 MAX does not contain a physical clock, the UTC time and date are also shown here. The UTC time and date are automatically set using GPS inputs, removing the need to manually set the clock. If there is a clock discrepancy, maintenance can manually adjust the display time.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp02",
+							"title": "Auxiliary Display - 1",
+							"type": "canvas",
+							"location": "06/dif06obp02.xml",
+							"graphicsLocation": "dif06obp02.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp03.mp3",
+									"audioText": "Elapsed Time start-stop controls have been eliminated in favor of automatic operation. The readout shows 0 on electrical power up or when the origin airport is entered and begins counting at weight off wheels. The timer ends at weight on wheels plus 30 seconds. This extra time at landing is to prevent a timer stoppage in the event of a touch and go maneuver.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp03",
+							"title": "Auxiliary Display - 2",
+							"type": "canvas",
+							"location": "06/dif06obp03.xml",
+							"graphicsLocation": "dif06obp03.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp04",
+							"title": "Auxiliary Display - 3",
+							"type": "canvas",
+							"location": "06/dif06obp04.xml",
+							"graphicsLocation": "dif06obp04.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp05.mp3",
+									"audioText": "By using the CLOCK switch located on the glare shield, the pilots have independent control of the chronometer or stopwatch display. The first push shows and starts the timer function, the second push stops the timer function, and the third push removes the timer. Select the CLOCK switch to give it a try.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s4",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp05",
+							"title": "Clock Switch",
+							"type": "canvas",
+							"location": "06/dif06obp05.xml",
+							"graphicsLocation": "dif06obp05.html",
+							"data": {
+								"audio": [
+									{
+										"id": "e1",
+										"src": "sounds/error1.mp3"
+									},
+									{
+										"id": "e2",
+										"src": "sounds/error2.mp3"
+									}
+								]
+							},
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp06.mp3",
+									"audioText": "As you were shown earlier, the compass rose, beneath the PFD, shows heading/track information. Now, the extra height of the Display Units in the MAX allow the compass rose to become a part time mini-map. This part time mini map is available with an inboard display failure.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp06",
+							"title": "Compass Rose",
+							"type": "canvas",
+							"location": "06/dif06obp06.xml",
+							"graphicsLocation": "dif06obp06.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp07.mp3",
+									"audioText": "The MAX has automatic switching for a display unit failure. As discussed, if an inboard DU fails the PFD compass becomes a Mini-Map and the engine display is automatically switched to the opposite inboard display unit.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp07",
+							"title": "Automatic Switching",
+							"type": "canvas",
+							"location": "06/dif06obp07.xml",
+							"graphicsLocation": "dif06obp07.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06obp08.mp3",
+									"audioText": "The mini-map contains everything the full screen navigation display contained, including, a heading bug, selected heading marker, selected heading, and the heading reference.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06obp08",
+							"title": "Mini-Map",
+							"type": "canvas",
+							"location": "06/dif06obp08.xml",
+							"graphicsLocation": "dif06obp08.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								}
+							],
+							"id": "dif06p02",
+							"title": "Glareshield",
+							"type": "canvas",
+							"location": "06/dif06p02.xml",
+							"graphicsLocation": "dif06p02.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06ibp01.mp3",
+									"audioText": "Multi-Function Display information, in normal operations, is available on either the left or right inboard display unit. Engine display information is always visible, in this image the engine display is shown on the left inboard display unit.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06ibp01",
+							"title": "Multi-Function Displays - 1",
+							"type": "canvas",
+							"location": "06/dif06ibp01.xml",
+							"graphicsLocation": "dif06ibp01.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06ibp02.mp3",
+									"audioText": "The MAX MFD is controlled by the MFD switches located on the Engine Display Control Panel. We’ll discuss this panel in detail in the Engine Display Control Panel topic.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06ibp02",
+							"title": "Multi-Function Displays - 2",
+							"type": "canvas",
+							"location": "06/dif06ibp02.xml",
+							"graphicsLocation": "dif06ibp02.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								}
+							],
+							"id": "dif06p03",
+							"title": "Glareshield",
+							"type": "canvas",
+							"location": "06/dif06p03.xml",
+							"graphicsLocation": "dif06p03.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06efp01.mp3",
+									"audioText": "The 737 MAX RANGE selector on the Electronic Flight Instrument System control panel, or “EFIS”, functions similarly to the 737NG RANGE selector, but with a couple of enhancements. The minimum range is now 0.5 NM, while the maximum range is 640 NM. The scale is the same for full and ½ screen displays. Additionally, the range scale is now no longer shown on the EFIS control panel.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif06efp01a.mp3",
+									"audioText": "To select a particular range for the Navigation and Weather displays, rotate the RANGE selector until the desired range is shown on the upper left portion of the ND. To try it out, twist the RANGE selector by selecting the plus or minus symbols on either side of the selector. Note: not all range values are shown.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06efp01",
+							"title": "ND / WXR Range Selector",
+							"type": "canvas",
+							"location": "06/dif06efp01.xml",
+							"graphicsLocation": "dif06efp01.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06efp02.mp3",
+									"audioText": "Also on the EFIS control panel, you will find a new VSD switch. The Vertical Situation Display, or VSD is pilot selectable by using this switch. VSD is shown on the bottom 30% of the Navigation Display or ND. The VSD can be shown in the center or expanded MAP modes. When the Navigation Display is in full screen mode the VSD is twice the navigation display range scale. In other words, when the full screen Navigation Display is set to 40 nautical miles the VSD shows 80 nautical miles. Try it out, select the VSD switch to see an example.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06efp02",
+							"title": "Vertical Situation Display (VSD) Switch",
+							"type": "canvas",
+							"location": "06/dif06efp02.xml",
+							"graphicsLocation": "dif06efp02.html",
+							"data": {
+								"audio": [
+									{
+										"id": "e1",
+										"src": "sounds/error1.mp3"
+									},
+									{
+										"id": "e2",
+										"src": "sounds/error2.mp3"
+									}
+								]
+							},
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								}
+							],
+							"id": "dif06p04",
+							"title": "Glareshield",
+							"type": "canvas",
+							"location": "06/dif06p04.xml",
+							"graphicsLocation": "dif06p04.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06edp01.mp3",
+									"audioText": "The Engine Display Control Panel contains the Multi-Function Display and Engine Transfer switches. Select each switch to learn more.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif06edp01c.mp3",
+									"audioText": "The ENG switch will display or remove the secondary engine indications on the MFD. This change occurs on whichever DU is currently displaying the engine indications. The engine indications is also where you will find the trailing edge and leading edge flap indications. Select the ENG switch again to see its operation.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2a",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif06edp01d.mp3",
+									"audioText": "Selecting the SYS switch shows the system page and a half screen navigation display. The SYS page is also where you will find the hydraulic quantity and pressure information.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif06edp01a.mp3",
+									"audioText": "Selecting the INFO switch shows the N1 speed reference page and a half screen navigation display. This is where you manually enter N1 target and V speed bugs as per the supplementary procedures. On the NG this was accomplished with the use of N1 speed knob and speed reference selector on the center forward panel.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s5",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s6",
+									"audioLocation": "dif06edp01b.mp3",
+									"audioText": "Selecting the double arrow engine transfer switch moves the primary engine display back and forth between the left inboard display unit and the right inboard display unit. Please note the compact engine display is not available in the MAX.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06edp01",
+							"title": "Engine Display Control Panel - 1",
+							"type": "canvas",
+							"location": "06/dif06edp01.xml",
+							"graphicsLocation": "dif06edp01.html",
+							"data": {
+								"audio": [
+									{
+										"id": "e1",
+										"src": "sounds/error1.mp3"
+									},
+									{
+										"id": "e2",
+										"src": "sounds/error2.mp3"
+									}
+								]
+							},
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06edp02.mp3",
+									"audioText": "After INFO is selected, a cursor and highlight will appear around the AUTO radio button on the N1 SET side of the display. The selector inner dial on either selector knob is used to scroll down through N1 SET and then through the Speed Reference radio buttons. This is how you can manually set the N1 bugs and speed references.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06edp02",
+							"title": "Engine Display Control Panel - 2",
+							"type": "canvas",
+							"location": "06/dif06edp02.xml",
+							"graphicsLocation": "dif06edp02.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06edp03.mp3",
+									"audioText": "To enable an entry field, select the radio button next to it by moving the cursor over the desired button and then pressing Select (SEL), located on the top of the selector inner knob. When an entry field is enabled, the field can then be selected (green). When the entry field is selected, turning the selector inner knob increases or decreases the value. Before leaving the N1 Speed REF page remember to select the SET radio button at the bottom of the column.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06edp03",
+							"title": "Entry Field",
+							"type": "canvas",
+							"location": "06/dif06edp03.xml",
+							"graphicsLocation": "dif06edp03.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06edp04.mp3",
+									"audioText": "Let’s try an example, rotate the selector inner knob until the cursor is over VREF, then select VREF. Please note, only VREF is supported in this demonstration.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s4",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s5",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s6",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s7",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s8",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s9",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06edp04",
+							"title": "Using the SELECTOR Knob",
+							"type": "canvas",
+							"location": "06/dif06edp04.xml",
+							"graphicsLocation": "dif06edp04.html",
+							"data": {
+								"audio": [
+									{
+										"id": "e1",
+										"src": "sounds/error1.mp3"
+									},
+									{
+										"id": "e2",
+										"src": "sounds/error2.mp3"
+									}
+								]
+							},
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								}
+							],
+							"id": "dif06p05",
+							"title": "Glareshield",
+							"type": "canvas",
+							"location": "06/dif06p05.xml",
+							"graphicsLocation": "dif06p05.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06bp01.mp3",
+									"audioText": "The NG display select panel switches have been relocated from above to below the display units. The display select switches are collocated on the brightness control panel.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06bp01",
+							"title": "Location",
+							"type": "canvas",
+							"location": "06/dif06bp01.xml",
+							"graphicsLocation": "dif06bp01.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06bp02.mp3",
+									"audioText": "In addition, what was previously two switches in the NG has been simplified into one PFD/MFD switch in the MAX. Similar to the NG display select panel  this new three position switch allows the flight crew to manually configure the displays. Give it a try, move the PFD/MFD switch to each position. When you’re done select NEXT to continue.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06bp02",
+							"title": "Function",
+							"type": "canvas",
+							"location": "06/dif06bp02.xml",
+							"graphicsLocation": "dif06bp02.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif06bp03.mp3",
+									"audioText": "A final lighting control difference to discuss is the relocation of the Master TEST and DIM switch, it now appears above and to the right of the Captain’s inboard display unit.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06bp03",
+							"title": "Master Lights Test and DIM Switch",
+							"type": "canvas",
+							"location": "06/dif06bp03.xml",
+							"graphicsLocation": "dif06bp03.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								}
+							],
+							"id": "dif06p06",
+							"title": "Glareshield",
+							"type": "canvas",
+							"location": "06/dif06p06.xml",
+							"graphicsLocation": "dif06p06.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif06t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "06/dif06t02.xml",
+							"graphicsLocation": "dif06t02.html",
+							"data": false,
+							"parentId": "06",
+							"folderPath": "content/dif/06/"
+						}
+					],
+					"id": "06",
+					"title": "Flight Deck - Flight Instruments",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "07/dif07t01.xml",
+							"graphicsLocation": "dif07t01.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p01.mp3",
+									"audioText": "Let’s take a look at some of the Fuel System Differences you’ll find in the MAX, beginning with the fuel panel and the FILTER BYPASS alerts. You’ll recall that a fuel filter bypass light indicates an impending fuel filter bypass. If both FILTER BYPASS lights are illuminated land at the nearest suitable airport. On the NG, the FILTER BYPASS lights operate independently of each other.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif07p01a.mp3",
+									"audioText": "On the MAX, the FILTER BYPASS light logic considers both FILTER BYPASS lights. If at some point in the flight a condition triggers the other FILTER BYPASS light, both FILTER BYPASS lights will illuminate, and STAY illuminated until engine shutdown on the ground.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p01",
+							"title": "Filter Alerts",
+							"type": "canvas",
+							"location": "07/dif07p01.xml",
+							"graphicsLocation": "dif07p01.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p02.mp3",
+									"audioText": "Moving from the Fuel panel to the display units, we’ll continue with fuel related alerts. Please be aware that new non-normal checklists are associated with new or changed alerts.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p02",
+							"title": "Fuel System and FMC - 1",
+							"type": "canvas",
+							"location": "07/dif07p02.xml",
+							"graphicsLocation": "dif07p02.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p03.mp3",
+									"audioText": "A new fuel page, FUEL PROGRESS, has been added for the 737 MAX. It is page five of five of the progress pages. This page allows the selection of TOTALIZER or FMC CALCULATED fuel quantities for use in the FMC fuel calculations, which may be necessary for non-normal checklists. In addition, the APU FUEL USED quantity is now available on this page.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif07p03a.mp3",
+									"audioText": "As on the NG, TOTALIZER fuel quantity comes from the Fuel Quantity Indication System, or FQIS. CALCULATED fuel quantity takes the TOTALIZER value at engine start and updates this quantity with fuel flow data provided by the engine EECs as well as the APU. The APU FUEL USED quantity shows the total fuel used by the APU. APU FUEL USED quantity will only display after engine start.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p03",
+							"title": "Fuel System and FMC - 2",
+							"type": "canvas",
+							"location": "07/dif07p03.xml",
+							"graphicsLocation": "dif07p03.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p04.mp3",
+									"audioText": "The FUEL DISAGREE alert is new to the MAX. This alert is shown below the fuel quantity indications on the Engine Display, as well as in the FMC CDU as a scratchpad message. A new non-normal checklist is associated with this alert.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p04",
+							"title": "Alerts - 1",
+							"type": "canvas",
+							"location": "07/dif07p04.xml",
+							"graphicsLocation": "dif07p04.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p05.mp3",
+									"audioText": "FUEL DISAGREE is shown when the difference between the F-M-C CALCULATED and TOTALIZER fuel has exceeded a predetermined limit for 5 continuous minutes. This alert will persist on the engine display until the condition which triggered the alert is no longer present.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p05",
+							"title": "Fuel Disagree - 1",
+							"type": "canvas",
+							"location": "07/dif07p05.xml",
+							"graphicsLocation": "dif07p05.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p06.mp3",
+									"audioText": "Likewise, FUEL FLOW alerts are new to the MAX, they alert the crew of a possible fuel leak condition. A FUEL FLOW alert illuminates when the difference between the actual engine fuel flow rate and the FMC expected fuel flow rate exceeds a pre-determined threshold value for five continuous minutes.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p06",
+							"title": "Fuel Disagree - 2",
+							"type": "canvas",
+							"location": "07/dif07p06.xml",
+							"graphicsLocation": "dif07p06.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p07.mp3",
+									"audioText": "Two CDU scratchpad message alerts which already exist on the NG, USING RSV FUEL and INSUFFICIENT FUEL, are now also shown below the fuel quantity indications on the MAX engine display. These alerts will persist on the engine display until the condition which triggered the respective alert is no longer present. New non-normal checklists are now associated with these alerts.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07p07",
+							"title": "Alerts - 2",
+							"type": "canvas",
+							"location": "07/dif07p07.xml",
+							"graphicsLocation": "dif07p07.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif07p09.mp3",
+									"audioText": "Let’s take a look at the Performance Initialization page, and the different ways of calculating fuel. Fuel quantity source messages are available here on Line Select Key 2L.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif07p09a.mp3",
+									"audioText": "Sense is shown if TOTALIZER is the selected value, and is the default at engine start. It may also be selected by the crew on FUEL PROGRESS page 5/5, as previously discussed.  As on the NG, TOTALIZER fuel quantity comes from the Fuel Quantity Indication System, or FQIS.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif07p09b.mp3",
+									"audioText": "Calc is shown if CALCULATED fuel is selected on FUEL PROGRESS page 5/5. CALCULATED fuel quantity takes the TOTALIZER value at engine start and updates this quantity with fuel flow data provided by the engine EECs as well as the APU.",
+									"completion": "both",
+									"advance": "wait"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif07p09c.mp3",
+									"audioText": "Man indicates a Manual crew entry. When both TOTALIZER and CALCULATED fuel quantities are invalid or unavailable, dash prompts will appear on LSK 2L. Dash prompts indicate that a manual fuel entry is needed to allow the FMC to use gross weight calculations for VNAV and Vref calculations. Once entered, the MAN message will be shown next to the manually entered fuel quantity. This functionality is consistent with a loss of totalizer fuel quantity on the 737NG.",
+									"completion": "both",
+									"advance": "wait"
+								}
+							],
+							"id": "dif07p09",
+							"title": "SENS / CALC / MAN",
+							"type": "canvas",
+							"location": "07/dif07p09.xml",
+							"graphicsLocation": "dif07p09.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif07t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "07/dif07t02.xml",
+							"graphicsLocation": "dif07t02.html",
+							"data": false,
+							"parentId": "07",
+							"folderPath": "content/dif/07/"
+						}
+					],
+					"id": "07",
+					"title": "Flight Deck - Fuel / FMC",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif08t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "08/dif08t01.xml",
+							"graphicsLocation": "dif08t01.html",
+							"data": false,
+							"parentId": "08",
+							"folderPath": "content/dif/08/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif08p02.mp3",
+									"audioText": "There are a few minor differences between the NG landing gear and the MAX landing gear. Let’s take a closer look at those differences. While looking at the Landing Gear panel please note that the flaps 40 limitation has changed.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif08p02",
+							"title": "Landing Gear Differences",
+							"type": "canvas",
+							"location": "08/dif08p02.xml",
+							"graphicsLocation": "dif08p02.html",
+							"data": false,
+							"parentId": "08",
+							"folderPath": "content/dif/08/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif08p03.mp3",
+									"audioText": "You will notice the LANDING GEAR lever is centrally located between the inboard DU’s. To the right of the LANDING GEAR lever is the LOCK OVRD switch, which releases the landing gear lever lock. Also note that the NOSE WHEEL STEER switch has been relocated next to the LANDING GEAR lever.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif08p03",
+							"title": "Landing Gear Location",
+							"type": "canvas",
+							"location": "08/dif08p03.xml",
+							"graphicsLocation": "dif08p03.html",
+							"data": false,
+							"parentId": "08",
+							"folderPath": "content/dif/08/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif08p04.mp3",
+									"audioText": "The main difference to the MAX landing gear system is that the LANDING GEAR lever only has two positions; Up or Down. The OFF position has been removed. This is due to the LANDING GEAR lever electrically controlling the hydraulic extend and retract system, as opposed to mechanical connections on the NG. In the NG, hydraulic pressure is removed by placing the LANDING GEAR lever in the OFF position.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif08p04a.mp3",
+									"audioText": "In the MAX, pressure is removed from the system 10 seconds after all landing gear are up and locked. Note: After the Gear Lever is moved to the UP position following takeoff or go around, do not attempt to move the gear lever. Doing so may inadvertently extend the Landing Gear.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif08p04",
+							"title": "Landing Gear Lever",
+							"type": "canvas",
+							"location": "08/dif08p04.xml",
+							"graphicsLocation": "dif08p04.html",
+							"data": false,
+							"parentId": "08",
+							"folderPath": "content/dif/08/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif08p05.mp3",
+									"audioText": "One last item to discuss for landing gear differences, the AUTO BRAKE switch and the BRAKE PRESS indicator have been moved down to the Forward aisle-stand between the FMCs and below the LANDING GEAR lever.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif08p05",
+							"title": "AUTO BRAKE and BRAKE PRESS Location",
+							"type": "canvas",
+							"location": "08/dif08p05.xml",
+							"graphicsLocation": "dif08p05.html",
+							"data": false,
+							"parentId": "08",
+							"folderPath": "content/dif/08/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif08t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "08/dif08t02.xml",
+							"graphicsLocation": "dif08t02.html",
+							"data": false,
+							"parentId": "08",
+							"folderPath": "content/dif/08/"
+						}
+					],
+					"id": "08",
+					"title": "Flight Deck - Landing Gear",
+					"type": "topic"
+				},
+				{
+					"isVisible": true,
+					"fullItems": [
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09t01",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "09/dif09t01.xml",
+							"graphicsLocation": "dif09t01.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif09p01.mp3",
+									"audioText": "The VSD presents a profile view of the airplane and its environment to provide the pilot vertical situational awareness, and display other useful information. When the VSD is selected, the Navigation Display will show a set of cyan dashed lines 1x RNP to each side of the airplane’s current track.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif09p01a.mp3",
+									"audioText": "The area between the lines is referred to as the “swath” and indicates the area mapped by the VSD. As the airplane turns, the swath will expand angularly in the direction of the turn to include a preview of the waypoints and highest terrain in the swath. Note: The VSD is intended as an awareness tool and not intended to be a control instrument like the PFD.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09p01",
+							"title": "Vertical Situation Display (VSD)",
+							"type": "canvas",
+							"location": "09/dif09p01.xml",
+							"graphicsLocation": "dif09p01.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif09p02.mp3",
+									"audioText": "The VSD range is a function of the navigation display (ND) range and is depicted on the horizontal reference scale here. The full-width VSD has two times the range of the ND, ranging from 10NM to 1,280NM. The full-width VSD range remains at 10NM when the ND range is below 5NM. The half-width VSD range, utilized when the other half of the DU contains either the MFD, Engine display or PFD, varies from 5NM to 640NM and has the same range as the ND except when the selected ND range is less than 5NM, during which the half-width VSD range remains at 5NM.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09p02",
+							"title": "VSD Ranging",
+							"type": "canvas",
+							"location": "09/dif09p02.xml",
+							"graphicsLocation": "dif09p02.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif09p03.mp3",
+									"audioText": "Altitude information on the VSD is provided by the altitude reference scale section, located here. The altitude reference scale of the VSD is linked to the VSD range and is not independently adjustable. This is to ensure that a consistent 3 degree glidepath is depicted at lower ranges: 80NM and less for the half-width and 160NM and less for the full-width.",
+									"completion": "both",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioLocation": "dif09p03a.mp3",
+									"audioText": "The altitude reference scale and symbology is analogous to the PFD altitude tape, showing the selected altitude and BARO minimum altitudes. The Selected Altitude bug is tied to the dashed selected MCP altitude magenta line, discussed in further detail later in this module. In addition, a readout for selected altitude is placed above the altitude reference scale. The VSD terrain red, yellow, and green color coding is the same color coding that is used to depict EGPWS terrain on the lateral map.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09p03",
+							"title": "VSD Altitude",
+							"type": "canvas",
+							"location": "09/dif09p03.xml",
+							"graphicsLocation": "dif09p03.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif09p04.mp3",
+									"audioText": "The airplane symbol shows as a right triangle with the top slope of the symbol representing a 3 deg glidepath angle. The solid white line that extends from the nose is the flight path vector (or FPV). The vertical angle of the FPV depends on both vertical and ground speed. For the half width ND mode, the flight path vector length is half of the VSD horizontal scale. For the full width ND mode, the flight path vector length is one quarter of the VSD horizontal scale.",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09p04",
+							"title": "Flight Path Vector",
+							"type": "canvas",
+							"location": "09/dif09p04.xml",
+							"graphicsLocation": "dif09p04.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif09p05.mp3",
+									"audioText": "The vertical speed vector is a dashed magenta line that rotates about the nose of the airplane. It shows when the vertical speed mode is selected on the mode control panel (MCP).",
+									"completion": "both",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09p05",
+							"title": "Vertical Speed Vector",
+							"type": "canvas",
+							"location": "09/dif09p05.xml",
+							"graphicsLocation": "dif09p05.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioLocation": "dif09p06.mp3",
+									"audioText": "Here are some additional features of the VSD. Select each item to learn more.",
+									"completion": "vision",
+									"advance": "auto"
+								},
+								{
+									"id": "s2",
+									"audioText": "Here are some additional features of the VSD. Select each item to learn more.",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioLocation": "dif09p06wp.mp3",
+									"audioText": "Waypoint symbols can include identification and altitude constraints. The first waypoint in the swath is magenta and the following, if any, will be white.",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s4",
+									"audioLocation": "dif09p06rtsd.mp3",
+									"audioText": "The green range to target speed dot (RTSD) shows on the flight path vector to indicate where the airplane will achieve the target speed from the FMC or MCP during deceleration. The FMC has priority. The dot blanks if airplane speed is within 5 knots of target speed. A green unfilled dot at the end of the flight path vector shows that the target speed will not be achieved within the VSD display area.",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s5",
+									"audioLocation": "dif09p06mcp.mp3",
+									"audioText": "The MCP or Mode Control Panel selected altitude line is a horizontal dashed magenta line that shows the altitude selected on the MCP. As the MCP selected altitude changes, the magenta selected altitude readout above the scale on the VSD changes. Also the magenta MCP selected altitude bug and line move up or down on the altitude scale.",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s6",
+									"audioLocation": "dif09p06rw.mp3",
+									"audioText": "The runway symbol shows the location, altitude and length of the selected runway and comes from the FMC. The runway symbol is white and appears when the approach swath is active and the runway is in the swath.",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s7",
+									"audioLocation": "dif09p06fmc.mp3",
+									"audioText": "For selected approaches that include a designated FMC approach angle, a solid magenta vector will be shown. For approaches without a designated approach angle, a dashed cyan 3 degree reference vector will be shown. The 3 degree reference vector and the FMC approach angle have decision gates at 500 feet and 1,000 feet above field elevation to define where the airplane should be path and speed stable on approach.",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s8",
+									"audioLocation": "dif09p06baro.mp3",
+									"audioText": "The BARO Minimums line is a horizontal dashed green line that shows if BARO MINIMUMS has been selected on the EFIS control panel. If the MCP and BARO minimum altitudes are the same, the magenta and green lines interlace.",
+									"completion": "vision",
+									"advance": "auto"
+								}
+							],
+							"id": "dif09p06",
+							"title": "VSD Components",
+							"type": "canvas",
+							"location": "09/dif09p06.xml",
+							"graphicsLocation": "dif09p06.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						},
+						{
+							"isVisible": true,
+							"sections": [
+								{
+									"id": "s1",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s2",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s3",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								},
+								{
+									"id": "s4",
+									"audioText": "---",
+									"completion": "vision",
+									"advance": "wait"
+								}
+							],
+							"id": "dif09t02",
+							"title": "Flight Deck",
+							"type": "canvas",
+							"location": "09/dif09t02.xml",
+							"graphicsLocation": "dif09t02.html",
+							"data": false,
+							"parentId": "09",
+							"folderPath": "content/dif/09/"
+						}
+					],
+					"id": "09",
+					"title": "Flight Deck - Other Systems",
+					"type": "topic"
+				}
+			],
+			"id": "IC",
+			"rights": "Pelesys Learning Systems Inc.",
+			"title": "B737NG to B737MAX Differences"
+		}
+	]
+}

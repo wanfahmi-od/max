@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif08t02</id>
+  <graphics_location>dif08t02.html</graphics_location>
+  <data></data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-01-07</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05trimp01</id>
+  <title>Manual Trim Control</title>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05trimp01.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05trimp01.mp3</audio_location>
+      <audio_text>During normal flight conditions, the stabilizer is positioned by an electric trim motor controlled by the electric stabilizer trim switches on the control wheel, by the Speed Trim System, or by autopilot trim.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s2</id>
+      <audio_location>dif05trimp01a.mp3</audio_location>
+      <audio_text>During some non-normal flight conditions such as during a runaway stabilizer or when the stabilizer trim is inoperative, it may become necessary to manually trim the stabilizer to keep the airplane in trim.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

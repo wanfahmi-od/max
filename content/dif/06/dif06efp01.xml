@@ -1,0 +1,50 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif06efp01</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif06efp01.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif06efp01.mp3</audio_location>
+      <audio_text>The 737 MAX RANGE selector on the Electronic Flight Instrument System control panel, or “EFIS”, functions similarly to the 737NG RANGE selector, but with a couple of enhancements. The minimum range is now 0.5 NM, while the maximum range is 640 NM. The scale is the same for full and ½ screen displays. Additionally, the range scale is now no longer shown on the EFIS control panel.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	    <section>
+      <id>s2</id>
+      <audio_location>dif06efp01a.mp3</audio_location>
+      <audio_text>To select a particular range for the Navigation and Weather displays, rotate the RANGE selector until the desired range is shown on the upper left portion of the ND. To try it out, twist the RANGE selector by selecting the plus or minus symbols on either side of the selector. Note: not all range values are shown.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>
+
+
+

@@ -1,0 +1,40 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif09t02</id>
+  <graphics_location>dif09t02.html</graphics_location>
+  <data></data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s3</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s4</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+  </sections>
+</page>

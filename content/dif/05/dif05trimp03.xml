@@ -1,0 +1,48 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-01-07</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05trimp03</id>
+  <title>Manual Stabilizer Trim - 02</title>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05trimp03.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05trimp03.mp3</audio_location>
+      <audio_text>If manual stabilizer trim is necessary, ensure both STAB TRIM cutout switches are in CUTOUT prior to extending the manual trim wheel handles. Consider stowing the inboard armrests and keeping the manual trim wheel handles extended.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+	<section>
+      <id>s2</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction>
+      </instruction>
+      <completion>vision</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

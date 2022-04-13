@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif05fbp05</id>
+  <graphics_location>dif05fbp05.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05fbp05.mp3</audio_location>
+      <audio_text>The hydraulic pressure to the MAX ground spoiler Power Control Units is controlled by the Ground Spoiler Control Module (GSCM).</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif05fbp05a.mp3</audio_location>
+      <audio_text>The GSCM is commanded by logic in the Spoiler Control Electronics Unit which uses air and ground data and electrically sensed Speedbrake lever position. When airborne, the GSCM commands the ground spoilers to the retract position.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

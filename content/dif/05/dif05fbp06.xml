@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif05fbp06</id>
+  <graphics_location>dif05fbp06.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+     <section>
+      <id>s1</id>
+      <audio_location>dif05fbp06.mp3</audio_location>
+      <audio_text>The first fly-by-wire system we will discuss is Maneuver Load Alleviation (MLA). MLA is similar to the Load Alleviation System found on some 737NG models. If the speedbrakes are extended at higher gross weights, the MLA decreases structural loads by partially retracting the speedbrakes as needed.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif05fbp06a.mp3</audio_location>
+      <audio_text>The MLA is commanded through the Spoiler Control Electronics Unit, and will function when the airplane is experiencing a load factor greater than 1.3 g’s, or less than 0.3 g’s. When MLA is activated, the Speedbrake lever will not move in response to MLA spoiler inputs. When MLA is no longer needed, the speedbrakes will automatically return to the position commanded by the Speedbrake lever. The MLA system is transparent to the flight crew.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s3</id>
+      <audio_location></audio_location>
+      <audio_text>---</audio_text>
+      <instruction>
+      </instruction>
+      <completion>vision</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

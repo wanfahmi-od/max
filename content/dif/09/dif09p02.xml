@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif09p02</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif09p02.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif09p02.mp3</audio_location>
+      <audio_text>The VSD range is a function of the navigation display (ND) range and is depicted on the horizontal reference scale here. The full-width VSD has two times the range of the ND, ranging from 10NM to 1,280NM. The full-width VSD range remains at 10NM when the ND range is below 5NM. The half-width VSD range, utilized when the other half of the DU contains either the MFD, Engine display or PFD, varies from 5NM to 640NM and has the same range as the ND except when the selected ND range is less than 5NM, during which the half-width VSD range remains at 5NM.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

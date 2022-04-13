@@ -1,0 +1,72 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <id>dif09p06</id>
+  <graphics_location>dif09p06.html</graphics_location>
+  <data></data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif09p06.mp3</audio_location>
+      <audio_text>Here are some additional features of the VSD. Select each item to learn more.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location></audio_location>
+      <audio_text>Here are some additional features of the VSD. Select each item to learn more.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s3</id>
+      <audio_location>dif09p06wp.mp3</audio_location>
+      <audio_text>Waypoint symbols can include identification and altitude constraints. The first waypoint in the swath is magenta and the following, if any, will be white.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s4</id>
+      <audio_location>dif09p06rtsd.mp3</audio_location>
+      <audio_text>The green range to target speed dot (RTSD) shows on the flight path vector to indicate where the airplane will achieve the target speed from the FMC or MCP during deceleration. The FMC has priority. The dot blanks if airplane speed is within 5 knots of target speed. A green unfilled dot at the end of the flight path vector shows that the target speed will not be achieved within the VSD display area.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s5</id>
+      <audio_location>dif09p06mcp.mp3</audio_location>
+      <audio_text>The MCP or Mode Control Panel selected altitude line is a horizontal dashed magenta line that shows the altitude selected on the MCP. As the MCP selected altitude changes, the magenta selected altitude readout above the scale on the VSD changes. Also the magenta MCP selected altitude bug and line move up or down on the altitude scale.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s6</id>
+      <audio_location>dif09p06rw.mp3</audio_location>
+      <audio_text>The runway symbol shows the location, altitude and length of the selected runway and comes from the FMC. The runway symbol is white and appears when the approach swath is active and the runway is in the swath.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s7</id>
+      <audio_location>dif09p06fmc.mp3</audio_location>
+      <audio_text>For selected approaches that include a designated FMC approach angle, a solid magenta vector will be shown. For approaches without a designated approach angle, a dashed cyan 3 degree reference vector will be shown. The 3 degree reference vector and the FMC approach angle have decision gates at 500 feet and 1,000 feet above field elevation to define where the airplane should be path and speed stable on approach.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>wait</advance>
+    </section>
+    <section>
+      <id>s8</id>
+      <audio_location>dif09p06baro.mp3</audio_location>
+      <audio_text>The BARO Minimums line is a horizontal dashed green line that shows if BARO MINIMUMS has been selected on the EFIS control panel. If the MCP and BARO minimum altitudes are the same, the magenta and green lines interlace.</audio_text>
+      <instruction></instruction>
+      <completion>vision</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

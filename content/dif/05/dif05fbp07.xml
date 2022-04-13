@@ -1,0 +1,47 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif05fbp07</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif05fbp07.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif05fbp07.mp3</audio_location>
+      <audio_text>The Landing Attitude Modifier system (LAM) performs two functions. First, the LAM function applies when the flaps are in the 30 or 40 position. The LAM symmetrically deploys flight spoilers on approach to increase the pitch angle in order to maintain nose landing gear contact margins equivalent to the 737NG. The amount of spoiler deflection is based on the approach speed.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+    <section>
+      <id>s2</id>
+      <audio_location>dif05fbp07a.mp3</audio_location>
+      <audio_text>Spoiler deflection begins at approximately 10 knots above VREF with maximum LAM deflection occurring at 20 knots above VREF. The second LAM function deploys flight spoilers symmetrically when the flaps are in the 15 through 30 position and the thrust levers are near idle. This generates additional drag to allow the MAX to both capture and maintain a glidepath like the 737NG. The Speedbrake lever does not move during LAM operation and some buffet can occur.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

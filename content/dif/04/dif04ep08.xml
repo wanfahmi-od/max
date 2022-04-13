@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif04ep08</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif04ep08.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif04ep08.mp3</audio_location>
+      <audio_text>The engine starter limitations are changed for the LEAP-1B. For the normal starter duty cycle, multiple start attempts are allowed similar to the CFM 56; however, each normal start attempt is limited to 3 minutes on the MAX, compared to 2 minutes on the NG. Starter usage is limited to 5 minutes for all extended engine motorings. A minimum of 5 minutes is needed between the first two extended engine motorings. For the third and subsequent extended engine motorings, a minimum of 10 minutes is needed between each engine extended motoring. The recommended engine warm up time before takeoff for the LEAP-1B is 3 minutes with an oil temperature of 31° celsius, as opposed to 2 minutes on the CFM 56.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>

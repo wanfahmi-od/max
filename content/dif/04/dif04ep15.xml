@@ -1,0 +1,38 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<page>
+  <metadata>
+    <language>EN</language>
+    <description>
+    </description>
+    <keywords>
+    </keywords>
+    <date>2013-04-02</date>
+    <duration>
+    </duration>
+    <version>1.0</version>
+    <generator>
+    </generator>
+    <package_id>
+    </package_id>
+    <rights>Pelesys Learning Systems Inc.</rights>
+  </metadata>
+  <id>dif04ep15</id>
+  <type>no_test</type>
+  <init_required>false</init_required>
+  <unload_required>false</unload_required>
+  <graphics_location>dif04ep15.html</graphics_location>
+  <completion>last_section</completion>
+  <data>
+  </data>
+  <sections>
+    <section>
+      <id>s1</id>
+      <audio_location>dif04ep15.mp3</audio_location>
+      <audio_text>The THRUST alert logic compares the commanded thrust with the engine’s actual thrust. In addition to the THRUST alert, the THRUST alert logic will display an amber command sector THRUST arc on the N1 gauge. When triggered, all alerts in the upper right hand corner of the engine display will initially blink for 10 seconds, and will remain steady until the condition no longer exists. The blinking functionality of these alerts is inhibited during takeoff, landing and go-around at various preset altitudes to prevent flight crew distraction during critical phases of flight.</audio_text>
+      <instruction>
+      </instruction>
+      <completion>both</completion>
+      <advance>auto</advance>
+    </section>
+  </sections>
+</page>
